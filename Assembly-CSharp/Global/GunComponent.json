@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GunComponent",
+    "Windows": "GunComponent",
+    "FixedDeop": "GunComponent"
+  }
+}

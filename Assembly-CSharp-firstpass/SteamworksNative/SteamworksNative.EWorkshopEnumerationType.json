@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EWorkshopEnumerationType",
+    "Windows": "EWorkshopEnumerationType",
+    "FixedDeop": "EWorkshopEnumerationType"
+  }
+}

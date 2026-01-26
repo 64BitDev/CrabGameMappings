@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAccountType",
+    "Windows": "EAccountType",
+    "FixedDeop": "EAccountType"
+  }
+}

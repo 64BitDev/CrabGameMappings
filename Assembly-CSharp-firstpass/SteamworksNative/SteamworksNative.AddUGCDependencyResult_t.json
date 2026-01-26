@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "AddUGCDependencyResult_t",
+    "Windows": "AddUGCDependencyResult_t",
+    "FixedDeop": "AddUGCDependencyResult_t"
+  }
+}

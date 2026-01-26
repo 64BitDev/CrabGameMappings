@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "DispatchDelegate",
+    "Windows": "DispatchDelegate",
+    "FixedDeop": "DispatchDelegate"
+  }
+}

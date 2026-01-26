@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamMatchmakingServers",
+    "Windows": "SteamMatchmakingServers",
+    "FixedDeop": "SteamMatchmakingServers"
+  }
+}

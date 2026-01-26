@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SoundComponent",
+    "Windows": "SoundComponent",
+    "FixedDeop": "SoundComponent"
+  }
+}

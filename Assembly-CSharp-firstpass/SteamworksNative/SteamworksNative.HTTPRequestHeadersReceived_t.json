@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTTPRequestHeadersReceived_t",
+    "Windows": "HTTPRequestHeadersReceived_t",
+    "FixedDeop": "HTTPRequestHeadersReceived_t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_BrowserReady_t",
+    "Windows": "HTML_BrowserReady_t",
+    "FixedDeop": "HTML_BrowserReady_t"
+  }
+}

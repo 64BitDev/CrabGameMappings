@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamServersConnected_t",
+    "Windows": "SteamServersConnected_t",
+    "FixedDeop": "SteamServersConnected_t"
+  }
+}

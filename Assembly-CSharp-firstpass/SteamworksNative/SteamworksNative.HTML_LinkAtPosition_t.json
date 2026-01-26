@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_LinkAtPosition_t",
+    "Windows": "HTML_LinkAtPosition_t",
+    "FixedDeop": "HTML_LinkAtPosition_t"
+  }
+}

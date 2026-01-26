@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "OverlayBrowserProtocolNavigation_t",
+    "Windows": "OverlayBrowserProtocolNavigation_t",
+    "FixedDeop": "OverlayBrowserProtocolNavigation_t"
+  }
+}

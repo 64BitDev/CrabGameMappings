@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GSGameplayStats_t",
+    "Windows": "GSGameplayStats_t",
+    "FixedDeop": "GSGameplayStats_t"
+  }
+}

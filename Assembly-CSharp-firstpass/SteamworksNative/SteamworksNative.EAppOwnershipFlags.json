@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAppOwnershipFlags",
+    "Windows": "EAppOwnershipFlags",
+    "FixedDeop": "EAppOwnershipFlags"
+  }
+}

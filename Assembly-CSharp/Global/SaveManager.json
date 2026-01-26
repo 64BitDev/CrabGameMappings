@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SaveManager",
+    "Windows": "SaveManager",
+    "FixedDeop": "SaveManager"
+  }
+}

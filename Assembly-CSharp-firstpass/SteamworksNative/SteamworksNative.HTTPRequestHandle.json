@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTTPRequestHandle",
+    "Windows": "HTTPRequestHandle",
+    "FixedDeop": "HTTPRequestHandle"
+  }
+}

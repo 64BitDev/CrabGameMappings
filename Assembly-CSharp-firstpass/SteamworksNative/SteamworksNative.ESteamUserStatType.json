@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamUserStatType",
+    "Windows": "ESteamUserStatType",
+    "FixedDeop": "ESteamUserStatType"
+  }
+}

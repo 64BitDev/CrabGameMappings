@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "P2PSessionConnectFail_t",
+    "Windows": "P2PSessionConnectFail_t",
+    "FixedDeop": "P2PSessionConnectFail_t"
+  }
+}

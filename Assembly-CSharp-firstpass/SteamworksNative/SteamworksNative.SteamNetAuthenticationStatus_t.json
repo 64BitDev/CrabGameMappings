@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetAuthenticationStatus_t",
+    "Windows": "SteamNetAuthenticationStatus_t",
+    "FixedDeop": "SteamNetAuthenticationStatus_t"
+  }
+}

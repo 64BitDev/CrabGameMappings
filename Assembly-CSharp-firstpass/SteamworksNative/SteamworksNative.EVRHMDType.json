@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EVRHMDType",
+    "Windows": "EVRHMDType",
+    "FixedDeop": "EVRHMDType"
+  }
+}

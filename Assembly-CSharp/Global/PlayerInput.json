@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "PlayerInput",
+    "Windows": "PlayerInput",
+    "FixedDeop": "PlayerInput"
+  }
+}

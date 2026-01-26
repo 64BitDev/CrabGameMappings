@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameConnectedChatLeave_t",
+    "Windows": "GameConnectedChatLeave_t",
+    "FixedDeop": "GameConnectedChatLeave_t"
+  }
+}

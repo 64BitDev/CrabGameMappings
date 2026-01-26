@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SetUserItemVoteResult_t",
+    "Windows": "SetUserItemVoteResult_t",
+    "FixedDeop": "SetUserItemVoteResult_t"
+  }
+}

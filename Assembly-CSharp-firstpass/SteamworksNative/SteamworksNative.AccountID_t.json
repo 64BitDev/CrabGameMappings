@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "AccountID_t",
+    "Windows": "AccountID_t",
+    "FixedDeop": "AccountID_t"
+  }
+}

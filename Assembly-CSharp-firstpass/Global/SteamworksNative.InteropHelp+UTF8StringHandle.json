@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "UTF8StringHandle",
+    "Windows": "UTF8StringHandle",
+    "FixedDeop": "UTF8StringHandle"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ClientGameServerDeny_t",
+    "Windows": "ClientGameServerDeny_t",
+    "FixedDeop": "ClientGameServerDeny_t"
+  }
+}

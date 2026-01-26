@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EType",
+    "Windows": "EType",
+    "FixedDeop": "EType"
+  }
+}

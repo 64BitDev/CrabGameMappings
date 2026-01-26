@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamUGCQueryCompleted_t",
+    "Windows": "SteamUGCQueryCompleted_t",
+    "FixedDeop": "SteamUGCQueryCompleted_t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamUGCRequestUGCDetailsResult_t",
+    "Windows": "SteamUGCRequestUGCDetailsResult_t",
+    "FixedDeop": "SteamUGCRequestUGCDetailsResult_t"
+  }
+}

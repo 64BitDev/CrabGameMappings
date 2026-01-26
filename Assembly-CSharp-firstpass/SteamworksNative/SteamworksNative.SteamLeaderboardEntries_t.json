@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamLeaderboardEntries_t",
+    "Windows": "SteamLeaderboardEntries_t",
+    "FixedDeop": "SteamLeaderboardEntries_t"
+  }
+}

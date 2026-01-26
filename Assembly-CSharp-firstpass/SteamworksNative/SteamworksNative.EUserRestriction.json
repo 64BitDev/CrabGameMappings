@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EUserRestriction",
+    "Windows": "EUserRestriction",
+    "FixedDeop": "EUserRestriction"
+  }
+}

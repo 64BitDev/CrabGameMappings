@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameModeWaiting",
+    "Windows": "GameModeWaiting",
+    "FixedDeop": "GameModeWaiting"
+  }
+}

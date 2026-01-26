@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EFailureType",
+    "Windows": "EFailureType",
+    "FixedDeop": "EFailureType"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageFileReadAsyncComplete_t",
+    "Windows": "RemoteStorageFileReadAsyncComplete_t",
+    "FixedDeop": "RemoteStorageFileReadAsyncComplete_t"
+  }
+}

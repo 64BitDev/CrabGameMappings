@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "LeaderboardFindResult_t",
+    "Windows": "LeaderboardFindResult_t",
+    "FixedDeop": "LeaderboardFindResult_t"
+  }
+}

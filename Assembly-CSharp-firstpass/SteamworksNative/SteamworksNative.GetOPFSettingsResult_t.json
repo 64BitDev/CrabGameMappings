@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GetOPFSettingsResult_t",
+    "Windows": "GetOPFSettingsResult_t",
+    "FixedDeop": "GetOPFSettingsResult_t"
+  }
+}

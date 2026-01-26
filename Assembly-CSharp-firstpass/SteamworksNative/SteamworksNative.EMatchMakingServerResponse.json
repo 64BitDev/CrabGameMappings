@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EMatchMakingServerResponse",
+    "Windows": "EMatchMakingServerResponse",
+    "FixedDeop": "EMatchMakingServerResponse"
+  }
+}

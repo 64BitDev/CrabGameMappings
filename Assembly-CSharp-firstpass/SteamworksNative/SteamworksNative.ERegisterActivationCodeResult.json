@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ERegisterActivationCodeResult",
+    "Windows": "ERegisterActivationCodeResult",
+    "FixedDeop": "ERegisterActivationCodeResult"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStoragePublishFileProgress_t",
+    "Windows": "RemoteStoragePublishFileProgress_t",
+    "FixedDeop": "RemoteStoragePublishFileProgress_t"
+  }
+}

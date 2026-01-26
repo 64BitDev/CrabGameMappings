@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_URLChanged_t",
+    "Windows": "HTML_URLChanged_t",
+    "FixedDeop": "HTML_URLChanged_t"
+  }
+}

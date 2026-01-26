@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_SetCursor_t",
+    "Windows": "HTML_SetCursor_t",
+    "FixedDeop": "HTML_SetCursor_t"
+  }
+}

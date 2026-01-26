@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "VolumeFaderSettings",
+    "Windows": "VolumeFaderSettings",
+    "FixedDeop": "VolumeFaderSettings"
+  }
+}

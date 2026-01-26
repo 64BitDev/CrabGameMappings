@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetworkPingLocation_t",
+    "Windows": "SteamNetworkPingLocation_t",
+    "FixedDeop": "SteamNetworkPingLocation_t"
+  }
+}

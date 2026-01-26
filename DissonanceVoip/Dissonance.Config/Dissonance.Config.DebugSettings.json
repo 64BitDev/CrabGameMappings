@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "DebugSettings",
+    "Windows": "DebugSettings",
+    "FixedDeop": "DebugSettings"
+  }
+}

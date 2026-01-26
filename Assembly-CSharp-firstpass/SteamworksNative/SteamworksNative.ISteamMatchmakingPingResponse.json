@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ISteamMatchmakingPingResponse",
+    "Windows": "ISteamMatchmakingPingResponse",
+    "FixedDeop": "ISteamMatchmakingPingResponse"
+  }
+}

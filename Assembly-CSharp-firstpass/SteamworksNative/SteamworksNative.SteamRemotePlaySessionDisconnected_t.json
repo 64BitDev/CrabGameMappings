@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamRemotePlaySessionDisconnected_t",
+    "Windows": "SteamRemotePlaySessionDisconnected_t",
+    "FixedDeop": "SteamRemotePlaySessionDisconnected_t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetworkingSockets",
+    "Windows": "SteamNetworkingSockets",
+    "FixedDeop": "SteamNetworkingSockets"
+  }
+}

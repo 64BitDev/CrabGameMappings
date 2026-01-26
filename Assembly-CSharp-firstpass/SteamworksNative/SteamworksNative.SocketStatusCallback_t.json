@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SocketStatusCallback_t",
+    "Windows": "SocketStatusCallback_t",
+    "FixedDeop": "SocketStatusCallback_t"
+  }
+}

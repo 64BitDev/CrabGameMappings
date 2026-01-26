@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "MusicPlayerWillQuit_t",
+    "Windows": "MusicPlayerWillQuit_t",
+    "FixedDeop": "MusicPlayerWillQuit_t"
+  }
+}

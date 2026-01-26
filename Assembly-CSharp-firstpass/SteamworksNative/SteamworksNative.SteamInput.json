@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamInput",
+    "Windows": "SteamInput",
+    "FixedDeop": "SteamInput"
+  }
+}

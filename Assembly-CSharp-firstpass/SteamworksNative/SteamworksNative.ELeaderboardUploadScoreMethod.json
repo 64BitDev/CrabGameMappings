@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ELeaderboardUploadScoreMethod",
+    "Windows": "ELeaderboardUploadScoreMethod",
+    "FixedDeop": "ELeaderboardUploadScoreMethod"
+  }
+}

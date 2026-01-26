@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SettingsData",
+    "Windows": "SettingsData",
+    "FixedDeop": "SettingsData"
+  }
+}

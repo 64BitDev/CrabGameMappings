@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "VolumeHasChanged_t",
+    "Windows": "VolumeHasChanged_t",
+    "FixedDeop": "VolumeHasChanged_t"
+  }
+}

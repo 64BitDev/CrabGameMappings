@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "CreateBeaconCallback_t",
+    "Windows": "CreateBeaconCallback_t",
+    "FixedDeop": "CreateBeaconCallback_t"
+  }
+}

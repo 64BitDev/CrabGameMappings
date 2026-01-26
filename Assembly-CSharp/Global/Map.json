@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "Map",
+    "Windows": "Map",
+    "FixedDeop": "Map"
+  }
+}

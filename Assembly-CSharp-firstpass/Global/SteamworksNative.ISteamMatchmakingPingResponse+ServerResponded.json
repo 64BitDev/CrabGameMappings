@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ServerResponded",
+    "Windows": "ServerResponded",
+    "FixedDeop": "ServerResponded"
+  }
+}

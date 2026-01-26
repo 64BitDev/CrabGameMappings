@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "TokenSet",
+    "Windows": "TokenSet",
+    "FixedDeop": "TokenSet"
+  }
+}

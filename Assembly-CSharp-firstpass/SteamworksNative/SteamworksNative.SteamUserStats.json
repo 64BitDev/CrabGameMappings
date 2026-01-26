@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamUserStats",
+    "Windows": "SteamUserStats",
+    "FixedDeop": "SteamUserStats"
+  }
+}

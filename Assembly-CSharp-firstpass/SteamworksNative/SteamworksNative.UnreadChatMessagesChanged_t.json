@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "UnreadChatMessagesChanged_t",
+    "Windows": "UnreadChatMessagesChanged_t",
+    "FixedDeop": "UnreadChatMessagesChanged_t"
+  }
+}

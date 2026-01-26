@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SubmitPlayerResultResultCallback_t",
+    "Windows": "SubmitPlayerResultResultCallback_t",
+    "FixedDeop": "SubmitPlayerResultResultCallback_t"
+  }
+}

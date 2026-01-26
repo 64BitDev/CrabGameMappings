@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SkipRenameAttribute",
+    "Windows": "SkipRenameAttribute",
+    "FixedDeop": "SkipRenameAttribute"
+  }
+}

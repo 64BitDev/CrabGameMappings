@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamNetworkingAvailability",
+    "Windows": "ESteamNetworkingAvailability",
+    "FixedDeop": "ESteamNetworkingAvailability"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EHTTPStatusCode",
+    "Windows": "EHTTPStatusCode",
+    "FixedDeop": "EHTTPStatusCode"
+  }
+}

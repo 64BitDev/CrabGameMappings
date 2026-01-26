@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameOverlayActivated_t",
+    "Windows": "GameOverlayActivated_t",
+    "FixedDeop": "GameOverlayActivated_t"
+  }
+}

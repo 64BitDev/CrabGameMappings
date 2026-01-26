@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamItemFlags",
+    "Windows": "ESteamItemFlags",
+    "FixedDeop": "ESteamItemFlags"
+  }
+}

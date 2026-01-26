@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EDurationControlProgress",
+    "Windows": "EDurationControlProgress",
+    "FixedDeop": "EDurationControlProgress"
+  }
+}

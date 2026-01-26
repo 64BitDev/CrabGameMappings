@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "CallResult",
+    "Windows": "CallResult",
+    "FixedDeop": "CallResult"
+  }
+}

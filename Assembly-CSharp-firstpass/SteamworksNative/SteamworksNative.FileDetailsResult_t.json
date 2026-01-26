@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "FileDetailsResult_t",
+    "Windows": "FileDetailsResult_t",
+    "FixedDeop": "FileDetailsResult_t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamDatagramRelayAuthTicket",
+    "Windows": "SteamDatagramRelayAuthTicket",
+    "FixedDeop": "SteamDatagramRelayAuthTicket"
+  }
+}

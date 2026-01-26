@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "CheckFileSignature_t",
+    "Windows": "CheckFileSignature_t",
+    "FixedDeop": "CheckFileSignature_t"
+  }
+}

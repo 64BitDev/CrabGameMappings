@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "IPCFailure_t",
+    "Windows": "IPCFailure_t",
+    "FixedDeop": "IPCFailure_t"
+  }
+}

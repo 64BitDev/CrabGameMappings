@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "JoinPartyCallback_t",
+    "Windows": "JoinPartyCallback_t",
+    "FixedDeop": "JoinPartyCallback_t"
+  }
+}

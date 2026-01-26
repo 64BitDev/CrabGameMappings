@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "DurationControl_t",
+    "Windows": "DurationControl_t",
+    "FixedDeop": "DurationControl_t"
+  }
+}

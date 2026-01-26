@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "CosmeticItem",
+    "Windows": "CosmeticItem",
+    "FixedDeop": "CosmeticItem"
+  }
+}

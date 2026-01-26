@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamIPAddress_t",
+    "Windows": "SteamIPAddress_t",
+    "FixedDeop": "SteamIPAddress_t"
+  }
+}

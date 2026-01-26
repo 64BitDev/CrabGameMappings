@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GCMessageAvailable_t",
+    "Windows": "GCMessageAvailable_t",
+    "FixedDeop": "GCMessageAvailable_t"
+  }
+}

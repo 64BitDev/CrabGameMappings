@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamNetworkingSocketsDebugOutputType",
+    "Windows": "ESteamNetworkingSocketsDebugOutputType",
+    "FixedDeop": "ESteamNetworkingSocketsDebugOutputType"
+  }
+}

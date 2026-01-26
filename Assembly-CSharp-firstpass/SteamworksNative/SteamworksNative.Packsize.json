@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "Packsize",
+    "Windows": "Packsize",
+    "FixedDeop": "Packsize"
+  }
+}

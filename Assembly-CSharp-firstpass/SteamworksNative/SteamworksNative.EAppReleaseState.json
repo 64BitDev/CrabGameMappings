@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAppReleaseState",
+    "Windows": "EAppReleaseState",
+    "FixedDeop": "EAppReleaseState"
+  }
+}

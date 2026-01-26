@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "InputActionSetHandle_t",
+    "Windows": "InputActionSetHandle_t",
+    "FixedDeop": "InputActionSetHandle_t"
+  }
+}

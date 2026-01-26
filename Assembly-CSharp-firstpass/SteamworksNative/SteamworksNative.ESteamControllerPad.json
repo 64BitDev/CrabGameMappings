@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamControllerPad",
+    "Windows": "ESteamControllerPad",
+    "FixedDeop": "ESteamControllerPad"
+  }
+}

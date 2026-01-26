@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStoragePublishFileResult_t",
+    "Windows": "RemoteStoragePublishFileResult_t",
+    "FixedDeop": "RemoteStoragePublishFileResult_t"
+  }
+}

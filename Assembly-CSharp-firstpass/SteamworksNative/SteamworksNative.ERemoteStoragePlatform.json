@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ERemoteStoragePlatform",
+    "Windows": "ERemoteStoragePlatform",
+    "FixedDeop": "ERemoteStoragePlatform"
+  }
+}

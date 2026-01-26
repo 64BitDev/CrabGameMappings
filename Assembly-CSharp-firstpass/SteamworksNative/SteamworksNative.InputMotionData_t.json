@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "InputMotionData_t",
+    "Windows": "InputMotionData_t",
+    "FixedDeop": "InputMotionData_t"
+  }
+}

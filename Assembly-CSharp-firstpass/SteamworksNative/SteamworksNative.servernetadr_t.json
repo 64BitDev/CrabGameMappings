@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "servernetadr_t",
+    "Windows": "servernetadr_t",
+    "FixedDeop": "servernetadr_t"
+  }
+}

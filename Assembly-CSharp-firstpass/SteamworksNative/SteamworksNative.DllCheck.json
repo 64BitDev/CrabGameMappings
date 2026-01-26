@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "DllCheck",
+    "Windows": "DllCheck",
+    "FixedDeop": "DllCheck"
+  }
+}

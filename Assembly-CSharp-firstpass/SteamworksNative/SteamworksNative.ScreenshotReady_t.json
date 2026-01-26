@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ScreenshotReady_t",
+    "Windows": "ScreenshotReady_t",
+    "FixedDeop": "ScreenshotReady_t"
+  }
+}

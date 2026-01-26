@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamIPType",
+    "Windows": "ESteamIPType",
+    "FixedDeop": "ESteamIPType"
+  }
+}

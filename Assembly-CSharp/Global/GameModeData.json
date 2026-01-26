@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameModeData",
+    "Windows": "GameModeData",
+    "FixedDeop": "GameModeData"
+  }
+}

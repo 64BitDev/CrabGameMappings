@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageEnumerateWorkshopFilesResult_t",
+    "Windows": "RemoteStorageEnumerateWorkshopFilesResult_t",
+    "FixedDeop": "RemoteStorageEnumerateWorkshopFilesResult_t"
+  }
+}

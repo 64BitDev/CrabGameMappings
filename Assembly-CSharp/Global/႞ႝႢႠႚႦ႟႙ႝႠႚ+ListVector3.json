@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ListVector3",
+    "Windows": "ListVector3",
+    "FixedDeop": "ListVector3"
+  }
+}

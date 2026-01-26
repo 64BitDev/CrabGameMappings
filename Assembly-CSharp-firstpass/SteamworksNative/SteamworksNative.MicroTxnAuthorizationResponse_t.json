@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "MicroTxnAuthorizationResponse_t",
+    "Windows": "MicroTxnAuthorizationResponse_t",
+    "FixedDeop": "MicroTxnAuthorizationResponse_t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "CSteamAPIContext",
+    "Windows": "CSteamAPIContext",
+    "FixedDeop": "CSteamAPIContext"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "StartPlaytimeTrackingResult_t",
+    "Windows": "StartPlaytimeTrackingResult_t",
+    "FixedDeop": "StartPlaytimeTrackingResult_t"
+  }
+}

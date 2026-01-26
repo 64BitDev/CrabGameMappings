@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GSStatsReceived_t",
+    "Windows": "GSStatsReceived_t",
+    "FixedDeop": "GSStatsReceived_t"
+  }
+}

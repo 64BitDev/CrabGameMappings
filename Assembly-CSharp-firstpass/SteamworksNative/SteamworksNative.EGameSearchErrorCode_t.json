@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EGameSearchErrorCode_t",
+    "Windows": "EGameSearchErrorCode_t",
+    "FixedDeop": "EGameSearchErrorCode_t"
+  }
+}

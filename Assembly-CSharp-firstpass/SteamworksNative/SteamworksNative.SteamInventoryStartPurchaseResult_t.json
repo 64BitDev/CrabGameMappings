@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamInventoryStartPurchaseResult_t",
+    "Windows": "SteamInventoryStartPurchaseResult_t",
+    "FixedDeop": "SteamInventoryStartPurchaseResult_t"
+  }
+}

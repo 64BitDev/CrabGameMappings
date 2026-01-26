@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "UGCHandle_t",
+    "Windows": "UGCHandle_t",
+    "FixedDeop": "UGCHandle_t"
+  }
+}

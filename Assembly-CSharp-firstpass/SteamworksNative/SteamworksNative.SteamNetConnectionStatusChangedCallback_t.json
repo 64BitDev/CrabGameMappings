@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetConnectionStatusChangedCallback_t",
+    "Windows": "SteamNetConnectionStatusChangedCallback_t",
+    "FixedDeop": "SteamNetConnectionStatusChangedCallback_t"
+  }
+}

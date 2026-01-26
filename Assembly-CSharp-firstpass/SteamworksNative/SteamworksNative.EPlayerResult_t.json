@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EPlayerResult_t",
+    "Windows": "EPlayerResult_t",
+    "FixedDeop": "EPlayerResult_t"
+  }
+}

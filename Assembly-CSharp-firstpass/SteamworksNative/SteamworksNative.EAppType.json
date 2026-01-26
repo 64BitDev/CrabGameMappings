@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAppType",
+    "Windows": "EAppType",
+    "FixedDeop": "EAppType"
+  }
+}

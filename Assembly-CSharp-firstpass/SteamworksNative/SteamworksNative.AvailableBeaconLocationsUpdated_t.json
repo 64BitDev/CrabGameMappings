@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "AvailableBeaconLocationsUpdated_t",
+    "Windows": "AvailableBeaconLocationsUpdated_t",
+    "FixedDeop": "AvailableBeaconLocationsUpdated_t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "JoinClanChatRoomCompletionResult_t",
+    "Windows": "JoinClanChatRoomCompletionResult_t",
+    "FixedDeop": "JoinClanChatRoomCompletionResult_t"
+  }
+}

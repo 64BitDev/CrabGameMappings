@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameRichPresenceJoinRequested_t",
+    "Windows": "GameRichPresenceJoinRequested_t",
+    "FixedDeop": "GameRichPresenceJoinRequested_t"
+  }
+}

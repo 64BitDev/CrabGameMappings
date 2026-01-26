@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStoragePublishedFileDeleted_t",
+    "Windows": "RemoteStoragePublishedFileDeleted_t",
+    "FixedDeop": "RemoteStoragePublishedFileDeleted_t"
+  }
+}

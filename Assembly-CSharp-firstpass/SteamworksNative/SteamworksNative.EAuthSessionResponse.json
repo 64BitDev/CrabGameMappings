@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAuthSessionResponse",
+    "Windows": "EAuthSessionResponse",
+    "FixedDeop": "EAuthSessionResponse"
+  }
+}

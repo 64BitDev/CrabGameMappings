@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageDownloadUGCResult_t",
+    "Windows": "RemoteStorageDownloadUGCResult_t",
+    "FixedDeop": "RemoteStorageDownloadUGCResult_t"
+  }
+}

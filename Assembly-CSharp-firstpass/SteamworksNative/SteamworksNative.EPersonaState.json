@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "EPersonaState",
+    "Windows": "EPersonaState",
+    "FixedDeop": "EPersonaState"
+  }
+}
