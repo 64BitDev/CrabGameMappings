@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ObscuredSByte",
+    "Windows": "ObscuredSByte",
+    "FixedDeop": "ObscuredSByte"
+  }
+}

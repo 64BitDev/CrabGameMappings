@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "IsReadOnlyAttribute",
+    "Windows": "IsReadOnlyAttribute",
+    "FixedDeop": "IsReadOnlyAttribute"
+  }
+}

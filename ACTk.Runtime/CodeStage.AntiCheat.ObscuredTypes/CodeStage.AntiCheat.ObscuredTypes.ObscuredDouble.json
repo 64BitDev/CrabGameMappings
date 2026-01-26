@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ObscuredDouble",
+    "Windows": "ObscuredDouble",
+    "FixedDeop": "ObscuredDouble"
+  }
+}

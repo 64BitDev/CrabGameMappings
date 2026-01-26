@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "ObscuredULong",
+    "Windows": "ObscuredULong",
+    "FixedDeop": "ObscuredULong"
+  }
+}
