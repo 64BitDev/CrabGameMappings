@@ -1,0 +1,7 @@
+{
+  "ObjectMaps": {
+    "Mac": "RawEncryptedVector3",
+    "Windows": "RawEncryptedVector3",
+    "FixedDeop": "RawEncryptedVector3"
+  }
+}
