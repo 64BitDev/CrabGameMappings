@@ -2,6 +2,6 @@
   "ObjectMaps": {
     "Mac": "\u10A8\u10A1\u10A7\u10A1\u10A7\u10A7\u109A\u10A2\u109B\u10A7\u109B",
     "Windows": "\u10A7\u109F\u10A6\u109E\u109E\u109A\u10A3\u109A\u10A4\u109E\u10A1",
-    "FixedDeop": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXL"
+    "FixedDeop": "SharedObject"
   }
 }

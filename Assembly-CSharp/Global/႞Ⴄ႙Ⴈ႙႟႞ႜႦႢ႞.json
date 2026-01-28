@@ -2,6 +2,6 @@
   "ObjectMaps": {
     "Mac": "\u109E\u10A4\u1099\u10A8\u1099\u109F\u109E\u109C\u10A6\u10A2\u109E",
     "Windows": "\u10A6\u109D\u109F\u10A6\u10A4\u109F\u10A7\u10A4\u1099\u109F\u109E",
-    "FixedDeop": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYX"
+    "FixedDeop": "ControlSetting"
   }
 }

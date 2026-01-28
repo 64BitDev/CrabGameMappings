@@ -2,6 +2,6 @@
   "ObjectMaps": {
     "Mac": "\u10A5\u109F\u109F\u10A2\u10A8\u10A8\u10A2\u10A0\u10A0\u109C\u109D",
     "Windows": "\u10A8\u1099\u1099\u1099\u10A4\u10A4\u10A8\u109D\u109A\u10A4\u10A5",
-    "FixedDeop": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYG"
+    "FixedDeop": "PlayerInventory"
   }
 }

@@ -2,6 +2,6 @@
   "ObjectMaps": {
     "Mac": "\u109C\u10A8\u109B\u10A6\u109C\u10A0\u109A\u109C\u10A6\u109F\u10A5",
     "Windows": "\u10A7\u109F\u109A\u109D\u10A4\u10A1\u109D\u10A7\u10A7\u109D\u10A6",
-    "FixedDeop": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXc"
+    "FixedDeop": "SteamPacketManager"
   }
 }

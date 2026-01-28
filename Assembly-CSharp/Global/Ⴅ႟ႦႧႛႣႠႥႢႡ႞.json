@@ -2,6 +2,6 @@
   "ObjectMaps": {
     "Mac": "\u10A5\u109F\u10A6\u10A7\u109B\u10A3\u10A0\u10A5\u10A2\u10A1\u109E",
     "Windows": "\u109B\u10A3\u109E\u1099\u10A7\u10A1\u10A3\u109C\u109D\u109F\u10A4",
-    "FixedDeop": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVE"
+    "FixedDeop": "MenuUiRecycleItem"
   }
 }
