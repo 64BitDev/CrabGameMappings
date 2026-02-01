@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "StopPlaytimeTrackingResult_t",
+    "Windows": "StopPlaytimeTrackingResult_t",
+    "FixedDeop": "StopPlaytimeTrackingResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

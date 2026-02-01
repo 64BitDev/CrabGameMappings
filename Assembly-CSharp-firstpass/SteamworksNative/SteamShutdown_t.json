@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamShutdown_t",
+    "Windows": "SteamShutdown_t",
+    "FixedDeop": "SteamShutdown_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

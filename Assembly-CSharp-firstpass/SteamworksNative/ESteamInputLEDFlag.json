@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamInputLEDFlag",
+    "Windows": "ESteamInputLEDFlag",
+    "FixedDeop": "ESteamInputLEDFlag"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

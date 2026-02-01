@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "AssociateWithClanResult_t",
+    "Windows": "AssociateWithClanResult_t",
+    "FixedDeop": "AssociateWithClanResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EHTTPMethod",
-    "Windows": "EHTTPMethod",
-    "FixedDeop": "EHTTPMethod"
-  }
-}

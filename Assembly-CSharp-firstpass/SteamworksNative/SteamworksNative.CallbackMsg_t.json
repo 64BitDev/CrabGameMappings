@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "CallbackMsg_t",
-    "Windows": "CallbackMsg_t",
-    "FixedDeop": "CallbackMsg_t"
-  }
-}

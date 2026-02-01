@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EItemState",
+    "Windows": "EItemState",
+    "FixedDeop": "EItemState"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

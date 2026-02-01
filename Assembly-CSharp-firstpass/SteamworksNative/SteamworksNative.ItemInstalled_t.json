@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ItemInstalled_t",
-    "Windows": "ItemInstalled_t",
-    "FixedDeop": "ItemInstalled_t"
-  }
-}

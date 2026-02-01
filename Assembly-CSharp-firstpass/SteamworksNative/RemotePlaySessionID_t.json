@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemotePlaySessionID_t",
+    "Windows": "RemotePlaySessionID_t",
+    "FixedDeop": "RemotePlaySessionID_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

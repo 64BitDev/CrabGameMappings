@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ESteamNetworkingGetConfigValueResult",
-    "Windows": "ESteamNetworkingGetConfigValueResult",
-    "FixedDeop": "ESteamNetworkingGetConfigValueResult"
-  }
-}

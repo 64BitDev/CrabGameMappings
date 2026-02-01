@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "NativeMethods",
+    "Windows": "NativeMethods",
+    "FixedDeop": "NativeMethods"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

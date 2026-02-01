@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EGamepadTextInputLineMode",
-    "Windows": "EGamepadTextInputLineMode",
-    "FixedDeop": "EGamepadTextInputLineMode"
-  }
-}

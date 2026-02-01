@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ReplaceLiteralsWithNameAttribute",
+    "Windows": "ReplaceLiteralsWithNameAttribute",
+    "FixedDeop": "ReplaceLiteralsWithNameAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

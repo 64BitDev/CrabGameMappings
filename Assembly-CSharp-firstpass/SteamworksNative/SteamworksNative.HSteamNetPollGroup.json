@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "HSteamNetPollGroup",
-    "Windows": "HSteamNetPollGroup",
-    "FixedDeop": "HSteamNetPollGroup"
-  }
-}

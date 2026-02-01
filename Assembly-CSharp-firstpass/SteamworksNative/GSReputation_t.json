@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GSReputation_t",
+    "Windows": "GSReputation_t",
+    "FixedDeop": "GSReputation_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

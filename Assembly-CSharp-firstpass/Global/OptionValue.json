@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "OptionValue",
+    "Windows": "OptionValue",
+    "FixedDeop": "OptionValue"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

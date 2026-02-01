@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "__StaticArrayInitTypeSize=32",
+    "Windows": "__StaticArrayInitTypeSize=32",
+    "FixedDeop": "__StaticArrayInitTypeSize=32"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

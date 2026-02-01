@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EUserHasLicenseForAppResult",
-    "Windows": "EUserHasLicenseForAppResult",
-    "FixedDeop": "EUserHasLicenseForAppResult"
-  }
-}

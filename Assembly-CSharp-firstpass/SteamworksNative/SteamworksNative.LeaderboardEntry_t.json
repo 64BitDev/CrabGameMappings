@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "LeaderboardEntry_t",
-    "Windows": "LeaderboardEntry_t",
-    "FixedDeop": "LeaderboardEntry_t"
-  }
-}

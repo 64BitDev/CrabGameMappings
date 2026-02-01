@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "DoNotFakeAttribute",
+    "Windows": "DoNotFakeAttribute",
+    "FixedDeop": "DoNotFakeAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

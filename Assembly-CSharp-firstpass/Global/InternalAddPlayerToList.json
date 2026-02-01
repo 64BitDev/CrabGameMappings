@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "InternalAddPlayerToList",
+    "Windows": "InternalAddPlayerToList",
+    "FixedDeop": "InternalAddPlayerToList"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

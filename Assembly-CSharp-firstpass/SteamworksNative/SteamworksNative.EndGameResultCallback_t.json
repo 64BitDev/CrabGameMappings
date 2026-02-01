@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EndGameResultCallback_t",
-    "Windows": "EndGameResultCallback_t",
-    "FixedDeop": "EndGameResultCallback_t"
-  }
-}

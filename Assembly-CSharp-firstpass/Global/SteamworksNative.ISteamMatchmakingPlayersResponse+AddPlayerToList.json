@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "AddPlayerToList",
-    "Windows": "AddPlayerToList",
-    "FixedDeop": "AddPlayerToList"
-  }
-}

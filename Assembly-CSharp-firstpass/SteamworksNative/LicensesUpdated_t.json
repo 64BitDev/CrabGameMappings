@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "LicensesUpdated_t",
+    "Windows": "LicensesUpdated_t",
+    "FixedDeop": "LicensesUpdated_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

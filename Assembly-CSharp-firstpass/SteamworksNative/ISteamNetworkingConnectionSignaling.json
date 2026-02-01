@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ISteamNetworkingConnectionSignaling",
+    "Windows": "ISteamNetworkingConnectionSignaling",
+    "FixedDeop": "ISteamNetworkingConnectionSignaling"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

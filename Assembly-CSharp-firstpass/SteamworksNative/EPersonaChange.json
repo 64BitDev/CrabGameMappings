@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EPersonaChange",
+    "Windows": "EPersonaChange",
+    "FixedDeop": "EPersonaChange"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

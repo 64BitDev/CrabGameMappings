@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "MusicPlayerRemoteWillDeactivate_t",
-    "Windows": "MusicPlayerRemoteWillDeactivate_t",
-    "FixedDeop": "MusicPlayerRemoteWillDeactivate_t"
-  }
-}

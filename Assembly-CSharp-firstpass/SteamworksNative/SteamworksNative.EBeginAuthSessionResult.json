@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EBeginAuthSessionResult",
-    "Windows": "EBeginAuthSessionResult",
-    "FixedDeop": "EBeginAuthSessionResult"
-  }
-}

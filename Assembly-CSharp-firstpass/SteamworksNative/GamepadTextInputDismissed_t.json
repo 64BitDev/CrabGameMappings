@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GamepadTextInputDismissed_t",
+    "Windows": "GamepadTextInputDismissed_t",
+    "FixedDeop": "GamepadTextInputDismissed_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

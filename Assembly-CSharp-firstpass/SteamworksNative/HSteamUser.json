@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HSteamUser",
+    "Windows": "HSteamUser",
+    "FixedDeop": "HSteamUser"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

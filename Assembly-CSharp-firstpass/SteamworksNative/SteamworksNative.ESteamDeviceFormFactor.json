@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ESteamDeviceFormFactor",
-    "Windows": "ESteamDeviceFormFactor",
-    "FixedDeop": "ESteamDeviceFormFactor"
-  }
-}

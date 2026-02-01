@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EP2PSessionError",
+    "Windows": "EP2PSessionError",
+    "FixedDeop": "EP2PSessionError"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

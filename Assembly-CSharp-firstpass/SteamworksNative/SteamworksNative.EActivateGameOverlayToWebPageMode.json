@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EActivateGameOverlayToWebPageMode",
-    "Windows": "EActivateGameOverlayToWebPageMode",
-    "FixedDeop": "EActivateGameOverlayToWebPageMode"
-  }
-}

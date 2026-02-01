@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RulesRefreshComplete",
-    "Windows": "RulesRefreshComplete",
-    "FixedDeop": "RulesRefreshComplete"
-  }
-}

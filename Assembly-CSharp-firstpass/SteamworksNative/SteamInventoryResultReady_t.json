@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamInventoryResultReady_t",
+    "Windows": "SteamInventoryResultReady_t",
+    "FixedDeop": "SteamInventoryResultReady_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

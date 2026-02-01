@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EUGCReadAction",
+    "Windows": "EUGCReadAction",
+    "FixedDeop": "EUGCReadAction"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EChatEntryType",
+    "Windows": "EChatEntryType",
+    "FixedDeop": "EChatEntryType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

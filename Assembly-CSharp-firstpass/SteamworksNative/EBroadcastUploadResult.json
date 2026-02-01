@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EBroadcastUploadResult",
+    "Windows": "EBroadcastUploadResult",
+    "FixedDeop": "EBroadcastUploadResult"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EUserUGCListSortOrder",
+    "Windows": "EUserUGCListSortOrder",
+    "FixedDeop": "EUserUGCListSortOrder"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

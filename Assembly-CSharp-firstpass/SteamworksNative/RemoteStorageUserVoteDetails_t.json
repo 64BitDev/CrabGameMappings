@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageUserVoteDetails_t",
+    "Windows": "RemoteStorageUserVoteDetails_t",
+    "FixedDeop": "RemoteStorageUserVoteDetails_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

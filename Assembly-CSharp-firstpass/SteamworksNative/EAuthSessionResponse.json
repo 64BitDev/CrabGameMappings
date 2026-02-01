@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAuthSessionResponse",
+    "Windows": "EAuthSessionResponse",
+    "FixedDeop": "EAuthSessionResponse"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

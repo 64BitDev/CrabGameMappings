@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SetPersonaNameResponse_t",
-    "Windows": "SetPersonaNameResponse_t",
-    "FixedDeop": "SetPersonaNameResponse_t"
-  }
-}

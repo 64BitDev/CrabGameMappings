@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamDatagramHostedAddress",
-    "Windows": "SteamDatagramHostedAddress",
-    "FixedDeop": "SteamDatagramHostedAddress"
-  }
-}

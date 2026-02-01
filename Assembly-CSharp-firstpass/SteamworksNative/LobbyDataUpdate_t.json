@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "LobbyDataUpdate_t",
+    "Windows": "LobbyDataUpdate_t",
+    "FixedDeop": "LobbyDataUpdate_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

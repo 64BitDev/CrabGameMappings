@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "AudioPlayback_Status",
+    "Windows": "AudioPlayback_Status",
+    "FixedDeop": "AudioPlayback_Status"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

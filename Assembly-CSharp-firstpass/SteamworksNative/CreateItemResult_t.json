@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "CreateItemResult_t",
+    "Windows": "CreateItemResult_t",
+    "FixedDeop": "CreateItemResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

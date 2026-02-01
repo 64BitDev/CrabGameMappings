@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamParamStringArray_t",
+    "Windows": "SteamParamStringArray_t",
+    "FixedDeop": "SteamParamStringArray_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

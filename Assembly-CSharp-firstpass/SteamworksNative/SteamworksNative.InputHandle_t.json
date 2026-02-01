@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "InputHandle_t",
-    "Windows": "InputHandle_t",
-    "FixedDeop": "InputHandle_t"
-  }
-}

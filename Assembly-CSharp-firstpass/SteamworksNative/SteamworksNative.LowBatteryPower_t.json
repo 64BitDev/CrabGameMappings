@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "LowBatteryPower_t",
-    "Windows": "LowBatteryPower_t",
-    "FixedDeop": "LowBatteryPower_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_FinishedRequest_t",
+    "Windows": "HTML_FinishedRequest_t",
+    "FixedDeop": "HTML_FinishedRequest_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

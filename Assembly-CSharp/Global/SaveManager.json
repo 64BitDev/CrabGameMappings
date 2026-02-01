@@ -3,5 +3,7 @@
     "Mac": "SaveManager",
     "Windows": "SaveManager",
     "FixedDeop": "SaveManager"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

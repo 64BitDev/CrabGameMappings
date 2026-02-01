@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "UGCQueryHandle_t",
-    "Windows": "UGCQueryHandle_t",
-    "FixedDeop": "UGCQueryHandle_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EAccountType",
+    "Windows": "EAccountType",
+    "FixedDeop": "EAccountType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

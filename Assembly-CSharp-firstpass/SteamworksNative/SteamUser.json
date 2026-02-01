@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamUser",
+    "Windows": "SteamUser",
+    "FixedDeop": "SteamUser"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

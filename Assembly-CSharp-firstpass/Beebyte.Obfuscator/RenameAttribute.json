@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RenameAttribute",
+    "Windows": "RenameAttribute",
+    "FixedDeop": "RenameAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

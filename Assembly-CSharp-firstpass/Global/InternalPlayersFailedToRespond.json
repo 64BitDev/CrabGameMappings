@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "InternalPlayersFailedToRespond",
+    "Windows": "InternalPlayersFailedToRespond",
+    "FixedDeop": "InternalPlayersFailedToRespond"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

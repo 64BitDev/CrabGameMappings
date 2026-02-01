@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RulesFailedToRespond",
+    "Windows": "RulesFailedToRespond",
+    "FixedDeop": "RulesFailedToRespond"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

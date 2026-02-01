@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamParentalSettingsChanged_t",
+    "Windows": "SteamParentalSettingsChanged_t",
+    "FixedDeop": "SteamParentalSettingsChanged_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

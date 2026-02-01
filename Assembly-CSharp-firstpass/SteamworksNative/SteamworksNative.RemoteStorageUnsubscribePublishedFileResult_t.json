@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RemoteStorageUnsubscribePublishedFileResult_t",
-    "Windows": "RemoteStorageUnsubscribePublishedFileResult_t",
-    "FixedDeop": "RemoteStorageUnsubscribePublishedFileResult_t"
-  }
-}

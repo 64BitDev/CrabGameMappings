@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "Callback",
+    "Windows": "Callback",
+    "FixedDeop": "Callback"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

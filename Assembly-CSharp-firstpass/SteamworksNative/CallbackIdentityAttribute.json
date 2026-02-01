@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "CallbackIdentityAttribute",
+    "Windows": "CallbackIdentityAttribute",
+    "FixedDeop": "CallbackIdentityAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

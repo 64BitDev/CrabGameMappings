@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SNetSocket_t",
+    "Windows": "SNetSocket_t",
+    "FixedDeop": "SNetSocket_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

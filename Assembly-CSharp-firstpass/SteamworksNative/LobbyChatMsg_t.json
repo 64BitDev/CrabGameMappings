@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "LobbyChatMsg_t",
+    "Windows": "LobbyChatMsg_t",
+    "FixedDeop": "LobbyChatMsg_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

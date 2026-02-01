@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GSClientAchievementStatus_t",
-    "Windows": "GSClientAchievementStatus_t",
-    "FixedDeop": "GSClientAchievementStatus_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "MusicPlayerSelectsQueueEntry_t",
+    "Windows": "MusicPlayerSelectsQueueEntry_t",
+    "FixedDeop": "MusicPlayerSelectsQueueEntry_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

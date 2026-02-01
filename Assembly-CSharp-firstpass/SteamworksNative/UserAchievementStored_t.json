@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "UserAchievementStored_t",
+    "Windows": "UserAchievementStored_t",
+    "FixedDeop": "UserAchievementStored_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

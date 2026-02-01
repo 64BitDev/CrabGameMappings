@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ShakeState",
+    "Windows": "ShakeState",
+    "FixedDeop": "ShakeState"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

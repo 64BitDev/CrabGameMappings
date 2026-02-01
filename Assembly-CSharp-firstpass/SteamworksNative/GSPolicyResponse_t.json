@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GSPolicyResponse_t",
+    "Windows": "GSPolicyResponse_t",
+    "FixedDeop": "GSPolicyResponse_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

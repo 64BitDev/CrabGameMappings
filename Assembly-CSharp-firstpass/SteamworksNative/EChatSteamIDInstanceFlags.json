@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EChatSteamIDInstanceFlags",
+    "Windows": "EChatSteamIDInstanceFlags",
+    "FixedDeop": "EChatSteamIDInstanceFlags"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

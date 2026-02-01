@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamAPICallFailure",
+    "Windows": "ESteamAPICallFailure",
+    "FixedDeop": "ESteamAPICallFailure"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

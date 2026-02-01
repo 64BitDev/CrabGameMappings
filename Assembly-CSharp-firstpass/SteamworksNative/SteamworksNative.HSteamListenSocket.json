@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "HSteamListenSocket",
-    "Windows": "HSteamListenSocket",
-    "FixedDeop": "HSteamListenSocket"
-  }
-}

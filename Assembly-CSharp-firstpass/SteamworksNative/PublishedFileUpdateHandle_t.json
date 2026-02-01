@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "PublishedFileUpdateHandle_t",
+    "Windows": "PublishedFileUpdateHandle_t",
+    "FixedDeop": "PublishedFileUpdateHandle_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

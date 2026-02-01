@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ChangeNumOpenSlotsCallback_t",
+    "Windows": "ChangeNumOpenSlotsCallback_t",
+    "FixedDeop": "ChangeNumOpenSlotsCallback_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

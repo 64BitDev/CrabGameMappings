@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamAPICallCompleted_t",
-    "Windows": "SteamAPICallCompleted_t",
-    "FixedDeop": "SteamAPICallCompleted_t"
-  }
-}

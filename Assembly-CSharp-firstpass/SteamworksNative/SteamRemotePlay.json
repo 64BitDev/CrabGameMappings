@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamRemotePlay",
+    "Windows": "SteamRemotePlay",
+    "FixedDeop": "SteamRemotePlay"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

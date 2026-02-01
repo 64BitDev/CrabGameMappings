@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_JSConfirm_t",
+    "Windows": "HTML_JSConfirm_t",
+    "FixedDeop": "HTML_JSConfirm_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ScreenshotRequested_t",
+    "Windows": "ScreenshotRequested_t",
+    "FixedDeop": "ScreenshotRequested_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

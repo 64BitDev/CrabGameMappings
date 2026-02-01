@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GameConnectedClanChatMsg_t",
-    "Windows": "GameConnectedClanChatMsg_t",
-    "FixedDeop": "GameConnectedClanChatMsg_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_UpdateToolTip_t",
+    "Windows": "HTML_UpdateToolTip_t",
+    "FixedDeop": "HTML_UpdateToolTip_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

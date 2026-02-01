@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamGameServerInventory",
+    "Windows": "SteamGameServerInventory",
+    "FixedDeop": "SteamGameServerInventory"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

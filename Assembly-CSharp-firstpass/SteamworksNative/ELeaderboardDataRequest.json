@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ELeaderboardDataRequest",
+    "Windows": "ELeaderboardDataRequest",
+    "FixedDeop": "ELeaderboardDataRequest"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

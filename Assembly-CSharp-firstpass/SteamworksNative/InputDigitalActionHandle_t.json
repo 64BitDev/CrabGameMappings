@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "InputDigitalActionHandle_t",
+    "Windows": "InputDigitalActionHandle_t",
+    "FixedDeop": "InputDigitalActionHandle_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

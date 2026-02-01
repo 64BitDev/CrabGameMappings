@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RemoteStorageAppSyncedServer_t",
-    "Windows": "RemoteStorageAppSyncedServer_t",
-    "FixedDeop": "RemoteStorageAppSyncedServer_t"
-  }
-}

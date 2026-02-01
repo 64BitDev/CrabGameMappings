@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "InternalServerResponded",
+    "Windows": "InternalServerResponded",
+    "FixedDeop": "InternalServerResponded"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

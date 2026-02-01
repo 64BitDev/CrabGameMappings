@@ -3,5 +3,7 @@
     "Mac": "StyledScriptableObject",
     "Windows": "StyledScriptableObject",
     "FixedDeop": "StyledScriptableObject"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

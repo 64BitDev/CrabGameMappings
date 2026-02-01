@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameServer",
+    "Windows": "GameServer",
+    "FixedDeop": "GameServer"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

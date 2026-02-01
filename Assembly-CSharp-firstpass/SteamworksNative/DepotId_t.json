@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "DepotId_t",
+    "Windows": "DepotId_t",
+    "FixedDeop": "DepotId_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

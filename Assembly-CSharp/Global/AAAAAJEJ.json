@@ -1,0 +1,22 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u10A0\u10A6\u10A1\u10A0\u10A5\u109E\u109E\u10A2\u109F\u109B\u109C",
+    "Windows": "\u10A6\u10A5\u109B\u10A0\u1099\u1099\u10A6\u10A5\u10A4\u109F\u109B",
+    "FixedDeop": "AAAAAJEJ"
+  },
+  "FieldMaps": {
+    "AAAAAJEK": {
+      "Mac": "\u10A6\u10A8\u109F\u109F\u10A0\u10A2\u109B\u109C\u10A7\u1099\u10A6",
+      "FixedDeop": "AAAAAJEK"
+    },
+    "AAAAAJEL": {
+      "Mac": "\u109B\u10A0\u1099\u109E\u10A7\u10A0\u1099\u10A4\u10A7\u10A4\u109F",
+      "FixedDeop": "AAAAAJEL"
+    },
+    "AAAAAJEM": {
+      "Mac": "\u109E\u10A0\u10A4\u1099\u10A7\u109E\u109F\u10A0\u10A3\u109C\u10A4",
+      "FixedDeop": "AAAAAJEM"
+    }
+  },
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SuppressLogAttribute",
+    "Windows": "SuppressLogAttribute",
+    "FixedDeop": "SuppressLogAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

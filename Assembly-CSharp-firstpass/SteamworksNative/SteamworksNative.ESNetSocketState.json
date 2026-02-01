@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ESNetSocketState",
-    "Windows": "ESNetSocketState",
-    "FixedDeop": "ESNetSocketState"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ShakeParameters",
-    "Windows": "ShakeParameters",
-    "FixedDeop": "ShakeParameters"
-  }
-}

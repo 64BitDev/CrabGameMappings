@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GSClientApprove_t",
+    "Windows": "GSClientApprove_t",
+    "FixedDeop": "GSClientApprove_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

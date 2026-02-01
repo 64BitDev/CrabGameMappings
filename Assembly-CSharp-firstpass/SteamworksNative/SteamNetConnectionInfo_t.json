@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetConnectionInfo_t",
+    "Windows": "SteamNetConnectionInfo_t",
+    "FixedDeop": "SteamNetConnectionInfo_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

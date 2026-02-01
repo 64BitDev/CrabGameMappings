@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamNetworkingQuickConnectionStatus",
-    "Windows": "SteamNetworkingQuickConnectionStatus",
-    "FixedDeop": "SteamNetworkingQuickConnectionStatus"
-  }
-}

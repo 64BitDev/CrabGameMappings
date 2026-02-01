@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_FileOpenDialog_t",
+    "Windows": "HTML_FileOpenDialog_t",
+    "FixedDeop": "HTML_FileOpenDialog_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "FriendGameInfo_t",
+    "Windows": "FriendGameInfo_t",
+    "FixedDeop": "FriendGameInfo_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

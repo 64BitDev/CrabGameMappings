@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EUserUGCList",
+    "Windows": "EUserUGCList",
+    "FixedDeop": "EUserUGCList"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

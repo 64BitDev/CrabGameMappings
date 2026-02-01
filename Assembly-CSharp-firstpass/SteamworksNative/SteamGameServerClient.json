@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamGameServerClient",
+    "Windows": "SteamGameServerClient",
+    "FixedDeop": "SteamGameServerClient"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

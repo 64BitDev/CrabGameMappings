@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamItemInstanceID_t",
+    "Windows": "SteamItemInstanceID_t",
+    "FixedDeop": "SteamItemInstanceID_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

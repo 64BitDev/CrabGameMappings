@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EDenyReason",
+    "Windows": "EDenyReason",
+    "FixedDeop": "EDenyReason"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

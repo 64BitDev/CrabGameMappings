@@ -3,5 +3,7 @@
     "Mac": "WeaponComponent",
     "Windows": "WeaponComponent",
     "FixedDeop": "WeaponComponent"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

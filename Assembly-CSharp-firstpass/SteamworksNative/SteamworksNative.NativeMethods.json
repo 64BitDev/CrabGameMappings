@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "NativeMethods",
-    "Windows": "NativeMethods",
-    "FixedDeop": "NativeMethods"
-  }
-}

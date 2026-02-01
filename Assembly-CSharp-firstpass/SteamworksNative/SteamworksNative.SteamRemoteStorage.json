@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamRemoteStorage",
-    "Windows": "SteamRemoteStorage",
-    "FixedDeop": "SteamRemoteStorage"
-  }
-}

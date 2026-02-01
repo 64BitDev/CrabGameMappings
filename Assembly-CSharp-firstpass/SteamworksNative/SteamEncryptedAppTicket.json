@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamEncryptedAppTicket",
+    "Windows": "SteamEncryptedAppTicket",
+    "FixedDeop": "SteamEncryptedAppTicket"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

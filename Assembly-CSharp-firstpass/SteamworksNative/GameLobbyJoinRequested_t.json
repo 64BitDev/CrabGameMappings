@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameLobbyJoinRequested_t",
+    "Windows": "GameLobbyJoinRequested_t",
+    "FixedDeop": "GameLobbyJoinRequested_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "APIDispatchDelegate",
+    "Windows": "APIDispatchDelegate",
+    "FixedDeop": "APIDispatchDelegate"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

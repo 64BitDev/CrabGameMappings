@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "FSteamNetworkingSocketsDebugOutput",
+    "Windows": "FSteamNetworkingSocketsDebugOutput",
+    "FixedDeop": "FSteamNetworkingSocketsDebugOutput"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

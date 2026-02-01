@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ShakePreset",
+    "Windows": "ShakePreset",
+    "FixedDeop": "ShakePreset"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

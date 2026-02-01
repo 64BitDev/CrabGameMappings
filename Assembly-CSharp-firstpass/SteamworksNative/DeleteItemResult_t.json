@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "DeleteItemResult_t",
+    "Windows": "DeleteItemResult_t",
+    "FixedDeop": "DeleteItemResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

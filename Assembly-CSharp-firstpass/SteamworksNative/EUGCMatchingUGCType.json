@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EUGCMatchingUGCType",
+    "Windows": "EUGCMatchingUGCType",
+    "FixedDeop": "EUGCMatchingUGCType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

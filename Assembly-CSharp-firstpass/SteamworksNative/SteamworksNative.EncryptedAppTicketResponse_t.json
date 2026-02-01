@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EncryptedAppTicketResponse_t",
-    "Windows": "EncryptedAppTicketResponse_t",
-    "FixedDeop": "EncryptedAppTicketResponse_t"
-  }
-}

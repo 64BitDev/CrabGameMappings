@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EVRScreenshotType",
+    "Windows": "EVRScreenshotType",
+    "FixedDeop": "EVRScreenshotType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

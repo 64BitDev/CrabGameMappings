@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "CGameID",
+    "Windows": "CGameID",
+    "FixedDeop": "CGameID"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

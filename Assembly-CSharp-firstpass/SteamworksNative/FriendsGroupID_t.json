@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "FriendsGroupID_t",
+    "Windows": "FriendsGroupID_t",
+    "FixedDeop": "FriendsGroupID_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

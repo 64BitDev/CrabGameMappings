@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "PlayersRefreshComplete",
+    "Windows": "PlayersRefreshComplete",
+    "FixedDeop": "PlayersRefreshComplete"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RemoveAppDependencyResult_t",
-    "Windows": "RemoveAppDependencyResult_t",
-    "FixedDeop": "RemoveAppDependencyResult_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "AvatarImageLoaded_t",
+    "Windows": "AvatarImageLoaded_t",
+    "FixedDeop": "AvatarImageLoaded_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

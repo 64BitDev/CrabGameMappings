@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "LobbyMatchList_t",
-    "Windows": "LobbyMatchList_t",
-    "FixedDeop": "LobbyMatchList_t"
-  }
-}

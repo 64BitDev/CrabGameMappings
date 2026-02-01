@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "MarketEligibilityResponse_t",
-    "Windows": "MarketEligibilityResponse_t",
-    "FixedDeop": "MarketEligibilityResponse_t"
-  }
-}

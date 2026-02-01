@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamAPIWarningMessageHook_t",
+    "Windows": "SteamAPIWarningMessageHook_t",
+    "FixedDeop": "SteamAPIWarningMessageHook_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

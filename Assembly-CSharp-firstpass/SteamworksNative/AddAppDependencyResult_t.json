@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "AddAppDependencyResult_t",
+    "Windows": "AddAppDependencyResult_t",
+    "FixedDeop": "AddAppDependencyResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

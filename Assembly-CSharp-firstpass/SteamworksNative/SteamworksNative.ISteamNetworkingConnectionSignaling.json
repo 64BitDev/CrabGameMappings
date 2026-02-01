@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ISteamNetworkingConnectionSignaling",
-    "Windows": "ISteamNetworkingConnectionSignaling",
-    "FixedDeop": "ISteamNetworkingConnectionSignaling"
-  }
-}

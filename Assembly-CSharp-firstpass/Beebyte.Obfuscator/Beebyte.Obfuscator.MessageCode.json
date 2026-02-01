@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "MessageCode",
-    "Windows": "MessageCode",
-    "FixedDeop": "MessageCode"
-  }
-}

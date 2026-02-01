@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageAppSyncProgress_t",
+    "Windows": "RemoteStorageAppSyncProgress_t",
+    "FixedDeop": "RemoteStorageAppSyncProgress_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

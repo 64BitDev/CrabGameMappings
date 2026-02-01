@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ScreenshotHandle",
-    "Windows": "ScreenshotHandle",
-    "FixedDeop": "ScreenshotHandle"
-  }
-}

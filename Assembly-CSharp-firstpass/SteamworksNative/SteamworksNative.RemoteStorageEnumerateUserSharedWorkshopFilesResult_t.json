@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RemoteStorageEnumerateUserSharedWorkshopFilesResult_t",
-    "Windows": "RemoteStorageEnumerateUserSharedWorkshopFilesResult_t",
-    "FixedDeop": "RemoteStorageEnumerateUserSharedWorkshopFilesResult_t"
-  }
-}

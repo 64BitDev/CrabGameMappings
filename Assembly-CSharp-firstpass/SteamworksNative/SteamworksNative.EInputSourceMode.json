@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EInputSourceMode",
-    "Windows": "EInputSourceMode",
-    "FixedDeop": "EInputSourceMode"
-  }
-}

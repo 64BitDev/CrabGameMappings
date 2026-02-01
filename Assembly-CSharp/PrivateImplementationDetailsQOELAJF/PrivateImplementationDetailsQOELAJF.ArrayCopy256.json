@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ArrayCopy256",
-    "Windows": "ArrayCopy256",
-    "FixedDeop": "ArrayCopy256"
-  }
-}

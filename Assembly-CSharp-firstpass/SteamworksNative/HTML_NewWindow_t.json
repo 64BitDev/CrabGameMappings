@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_NewWindow_t",
+    "Windows": "HTML_NewWindow_t",
+    "FixedDeop": "HTML_NewWindow_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

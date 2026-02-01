@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamVideo",
+    "Windows": "SteamVideo",
+    "FixedDeop": "SteamVideo"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamUserStatType",
+    "Windows": "ESteamUserStatType",
+    "FixedDeop": "ESteamUserStatType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

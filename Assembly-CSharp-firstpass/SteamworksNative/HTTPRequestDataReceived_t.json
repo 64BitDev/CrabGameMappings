@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTTPRequestDataReceived_t",
+    "Windows": "HTTPRequestDataReceived_t",
+    "FixedDeop": "HTTPRequestDataReceived_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

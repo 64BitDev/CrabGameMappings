@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RemoteStorageAppSyncStatusCheck_t",
-    "Windows": "RemoteStorageAppSyncStatusCheck_t",
-    "FixedDeop": "RemoteStorageAppSyncStatusCheck_t"
-  }
-}

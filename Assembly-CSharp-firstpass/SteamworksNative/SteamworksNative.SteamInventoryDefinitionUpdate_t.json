@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamInventoryDefinitionUpdate_t",
-    "Windows": "SteamInventoryDefinitionUpdate_t",
-    "FixedDeop": "SteamInventoryDefinitionUpdate_t"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamInventoryRequestPricesResult_t",
-    "Windows": "SteamInventoryRequestPricesResult_t",
-    "FixedDeop": "SteamInventoryRequestPricesResult_t"
-  }
-}

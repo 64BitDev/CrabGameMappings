@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GetVideoURLResult_t",
-    "Windows": "GetVideoURLResult_t",
-    "FixedDeop": "GetVideoURLResult_t"
-  }
-}

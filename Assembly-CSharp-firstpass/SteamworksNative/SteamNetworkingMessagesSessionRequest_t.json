@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetworkingMessagesSessionRequest_t",
+    "Windows": "SteamNetworkingMessagesSessionRequest_t",
+    "FixedDeop": "SteamNetworkingMessagesSessionRequest_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

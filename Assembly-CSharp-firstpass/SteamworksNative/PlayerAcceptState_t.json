@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "PlayerAcceptState_t",
+    "Windows": "PlayerAcceptState_t",
+    "FixedDeop": "PlayerAcceptState_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

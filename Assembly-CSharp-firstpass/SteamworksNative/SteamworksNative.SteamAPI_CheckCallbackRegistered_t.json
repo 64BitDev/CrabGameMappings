@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamAPI_CheckCallbackRegistered_t",
-    "Windows": "SteamAPI_CheckCallbackRegistered_t",
-    "FixedDeop": "SteamAPI_CheckCallbackRegistered_t"
-  }
-}

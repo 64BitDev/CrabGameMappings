@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HSteamPipe",
+    "Windows": "HSteamPipe",
+    "FixedDeop": "HSteamPipe"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

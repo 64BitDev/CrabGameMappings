@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "IsUnmanagedAttribute",
+    "Windows": "IsUnmanagedAttribute",
+    "FixedDeop": "IsUnmanagedAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EMouseCursor",
+    "Windows": "EMouseCursor",
+    "FixedDeop": "EMouseCursor"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

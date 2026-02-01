@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamAppList",
+    "Windows": "SteamAppList",
+    "FixedDeop": "SteamAppList"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

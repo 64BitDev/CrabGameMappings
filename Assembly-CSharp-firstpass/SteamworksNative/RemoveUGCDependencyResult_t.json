@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoveUGCDependencyResult_t",
+    "Windows": "RemoveUGCDependencyResult_t",
+    "FixedDeop": "RemoveUGCDependencyResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

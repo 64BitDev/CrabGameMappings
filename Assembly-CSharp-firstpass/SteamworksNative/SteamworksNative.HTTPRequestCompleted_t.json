@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "HTTPRequestCompleted_t",
-    "Windows": "HTTPRequestCompleted_t",
-    "FixedDeop": "HTTPRequestCompleted_t"
-  }
-}

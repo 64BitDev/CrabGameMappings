@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "UGCFileWriteStreamHandle_t",
-    "Windows": "UGCFileWriteStreamHandle_t",
-    "FixedDeop": "UGCFileWriteStreamHandle_t"
-  }
-}

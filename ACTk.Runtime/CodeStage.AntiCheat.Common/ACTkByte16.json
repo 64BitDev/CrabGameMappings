@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ACTkByte16",
+    "Windows": "ACTkByte16",
+    "FixedDeop": "ACTkByte16"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

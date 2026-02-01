@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ESteamNetConnectionEnd",
-    "Windows": "ESteamNetConnectionEnd",
-    "FixedDeop": "ESteamNetConnectionEnd"
-  }
-}

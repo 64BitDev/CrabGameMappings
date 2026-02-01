@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ObscuredPrefsData",
+    "Windows": "ObscuredPrefsData",
+    "FixedDeop": "ObscuredPrefsData"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

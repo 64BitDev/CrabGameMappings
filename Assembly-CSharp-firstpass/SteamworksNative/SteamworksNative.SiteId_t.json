@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SiteId_t",
-    "Windows": "SiteId_t",
-    "FixedDeop": "SiteId_t"
-  }
-}

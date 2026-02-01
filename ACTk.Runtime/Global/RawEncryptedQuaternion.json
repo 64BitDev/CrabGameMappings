@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RawEncryptedQuaternion",
+    "Windows": "RawEncryptedQuaternion",
+    "FixedDeop": "RawEncryptedQuaternion"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -3,5 +3,7 @@
     "Mac": "CurrentSettings",
     "Windows": "CurrentSettings",
     "FixedDeop": "CurrentSettings"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

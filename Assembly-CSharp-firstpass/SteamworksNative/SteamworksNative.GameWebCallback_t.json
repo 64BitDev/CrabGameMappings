@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GameWebCallback_t",
-    "Windows": "GameWebCallback_t",
-    "FixedDeop": "GameWebCallback_t"
-  }
-}

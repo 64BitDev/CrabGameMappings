@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ECheckFileSignature",
+    "Windows": "ECheckFileSignature",
+    "FixedDeop": "ECheckFileSignature"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

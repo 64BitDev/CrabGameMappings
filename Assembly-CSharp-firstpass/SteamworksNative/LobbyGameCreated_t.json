@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "LobbyGameCreated_t",
+    "Windows": "LobbyGameCreated_t",
+    "FixedDeop": "LobbyGameCreated_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

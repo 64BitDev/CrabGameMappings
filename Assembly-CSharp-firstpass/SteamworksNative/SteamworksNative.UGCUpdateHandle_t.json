@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "UGCUpdateHandle_t",
-    "Windows": "UGCUpdateHandle_t",
-    "FixedDeop": "UGCUpdateHandle_t"
-  }
-}

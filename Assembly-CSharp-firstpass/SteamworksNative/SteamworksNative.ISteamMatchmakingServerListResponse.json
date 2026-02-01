@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ISteamMatchmakingServerListResponse",
-    "Windows": "ISteamMatchmakingServerListResponse",
-    "FixedDeop": "ISteamMatchmakingServerListResponse"
-  }
-}

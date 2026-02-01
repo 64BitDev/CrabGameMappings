@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamInputType",
+    "Windows": "ESteamInputType",
+    "FixedDeop": "ESteamInputType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

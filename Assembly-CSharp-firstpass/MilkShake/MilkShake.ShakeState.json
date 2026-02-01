@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ShakeState",
-    "Windows": "ShakeState",
-    "FixedDeop": "ShakeState"
-  }
-}

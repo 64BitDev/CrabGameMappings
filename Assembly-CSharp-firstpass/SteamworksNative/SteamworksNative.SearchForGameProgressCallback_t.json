@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SearchForGameProgressCallback_t",
-    "Windows": "SearchForGameProgressCallback_t",
-    "FixedDeop": "SearchForGameProgressCallback_t"
-  }
-}

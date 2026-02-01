@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "HServerListRequest",
-    "Windows": "HServerListRequest",
-    "FixedDeop": "HServerListRequest"
-  }
-}

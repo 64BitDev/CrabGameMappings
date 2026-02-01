@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EGCResults",
+    "Windows": "EGCResults",
+    "FixedDeop": "EGCResults"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

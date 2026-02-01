@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ObfuscateLiteralsAttribute",
-    "Windows": "ObfuscateLiteralsAttribute",
-    "FixedDeop": "ObfuscateLiteralsAttribute"
-  }
-}

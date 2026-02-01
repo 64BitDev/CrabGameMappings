@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "MessageCode",
+    "Windows": "MessageCode",
+    "FixedDeop": "MessageCode"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

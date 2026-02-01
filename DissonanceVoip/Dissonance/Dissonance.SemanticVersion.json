@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SemanticVersion",
-    "Windows": "SemanticVersion",
-    "FixedDeop": "SemanticVersion"
-  }
-}

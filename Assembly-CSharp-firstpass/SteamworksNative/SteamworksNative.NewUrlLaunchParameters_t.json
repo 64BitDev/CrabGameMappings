@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "NewUrlLaunchParameters_t",
-    "Windows": "NewUrlLaunchParameters_t",
-    "FixedDeop": "NewUrlLaunchParameters_t"
-  }
-}

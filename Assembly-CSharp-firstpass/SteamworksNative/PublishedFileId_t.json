@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "PublishedFileId_t",
+    "Windows": "PublishedFileId_t",
+    "FixedDeop": "PublishedFileId_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

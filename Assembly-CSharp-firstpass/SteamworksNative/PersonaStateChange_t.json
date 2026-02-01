@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "PersonaStateChange_t",
+    "Windows": "PersonaStateChange_t",
+    "FixedDeop": "PersonaStateChange_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

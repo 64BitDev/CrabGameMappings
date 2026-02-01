@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EWorkshopFileAction",
+    "Windows": "EWorkshopFileAction",
+    "FixedDeop": "EWorkshopFileAction"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

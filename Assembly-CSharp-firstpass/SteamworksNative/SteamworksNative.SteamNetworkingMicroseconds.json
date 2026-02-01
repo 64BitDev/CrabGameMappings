@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamNetworkingMicroseconds",
-    "Windows": "SteamNetworkingMicroseconds",
-    "FixedDeop": "SteamNetworkingMicroseconds"
-  }
-}

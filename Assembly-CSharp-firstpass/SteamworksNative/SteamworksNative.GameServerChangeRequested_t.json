@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GameServerChangeRequested_t",
-    "Windows": "GameServerChangeRequested_t",
-    "FixedDeop": "GameServerChangeRequested_t"
-  }
-}

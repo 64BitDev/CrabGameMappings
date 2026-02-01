@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_CloseBrowser_t",
+    "Windows": "HTML_CloseBrowser_t",
+    "FixedDeop": "HTML_CloseBrowser_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

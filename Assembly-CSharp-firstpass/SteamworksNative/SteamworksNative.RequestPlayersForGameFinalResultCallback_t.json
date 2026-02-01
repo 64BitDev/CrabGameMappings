@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RequestPlayersForGameFinalResultCallback_t",
-    "Windows": "RequestPlayersForGameFinalResultCallback_t",
-    "FixedDeop": "RequestPlayersForGameFinalResultCallback_t"
-  }
-}

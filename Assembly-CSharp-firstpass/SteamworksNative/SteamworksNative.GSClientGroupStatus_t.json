@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GSClientGroupStatus_t",
-    "Windows": "GSClientGroupStatus_t",
-    "FixedDeop": "GSClientGroupStatus_t"
-  }
-}

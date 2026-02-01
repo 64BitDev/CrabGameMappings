@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GSStatsStored_t",
-    "Windows": "GSStatsStored_t",
-    "FixedDeop": "GSStatsStored_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_SearchResults_t",
+    "Windows": "HTML_SearchResults_t",
+    "FixedDeop": "HTML_SearchResults_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

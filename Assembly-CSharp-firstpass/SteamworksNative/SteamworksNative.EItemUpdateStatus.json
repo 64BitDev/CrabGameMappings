@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EItemUpdateStatus",
-    "Windows": "EItemUpdateStatus",
-    "FixedDeop": "EItemUpdateStatus"
-  }
-}

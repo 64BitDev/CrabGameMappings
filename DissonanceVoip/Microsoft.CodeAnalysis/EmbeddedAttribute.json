@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EmbeddedAttribute",
+    "Windows": "EmbeddedAttribute",
+    "FixedDeop": "EmbeddedAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

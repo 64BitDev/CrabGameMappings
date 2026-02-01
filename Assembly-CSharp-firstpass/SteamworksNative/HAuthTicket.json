@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HAuthTicket",
+    "Windows": "HAuthTicket",
+    "FixedDeop": "HAuthTicket"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

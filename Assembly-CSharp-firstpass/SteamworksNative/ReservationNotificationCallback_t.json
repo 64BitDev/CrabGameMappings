@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ReservationNotificationCallback_t",
+    "Windows": "ReservationNotificationCallback_t",
+    "FixedDeop": "ReservationNotificationCallback_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

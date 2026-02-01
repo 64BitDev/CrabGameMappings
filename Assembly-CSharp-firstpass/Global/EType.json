@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EType",
+    "Windows": "EType",
+    "FixedDeop": "EType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamLeaderboard_t",
+    "Windows": "SteamLeaderboard_t",
+    "FixedDeop": "SteamLeaderboard_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

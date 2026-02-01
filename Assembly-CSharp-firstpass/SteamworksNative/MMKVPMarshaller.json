@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "MMKVPMarshaller",
+    "Windows": "MMKVPMarshaller",
+    "FixedDeop": "MMKVPMarshaller"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

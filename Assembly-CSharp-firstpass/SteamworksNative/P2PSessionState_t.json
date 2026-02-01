@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "P2PSessionState_t",
+    "Windows": "P2PSessionState_t",
+    "FixedDeop": "P2PSessionState_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

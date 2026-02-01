@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamNetworkingConfigDataType",
+    "Windows": "ESteamNetworkingConfigDataType",
+    "FixedDeop": "ESteamNetworkingConfigDataType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

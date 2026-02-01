@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamItemDetails_t",
-    "Windows": "SteamItemDetails_t",
-    "FixedDeop": "SteamItemDetails_t"
-  }
-}

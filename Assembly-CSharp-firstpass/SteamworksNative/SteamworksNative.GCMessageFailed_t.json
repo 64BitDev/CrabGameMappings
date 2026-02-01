@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GCMessageFailed_t",
-    "Windows": "GCMessageFailed_t",
-    "FixedDeop": "GCMessageFailed_t"
-  }
-}

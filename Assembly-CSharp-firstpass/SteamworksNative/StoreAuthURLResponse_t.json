@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "StoreAuthURLResponse_t",
+    "Windows": "StoreAuthURLResponse_t",
+    "FixedDeop": "StoreAuthURLResponse_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "FavoritesListChanged_t",
-    "Windows": "FavoritesListChanged_t",
-    "FixedDeop": "FavoritesListChanged_t"
-  }
-}

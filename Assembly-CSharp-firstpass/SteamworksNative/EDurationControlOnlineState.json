@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EDurationControlOnlineState",
+    "Windows": "EDurationControlOnlineState",
+    "FixedDeop": "EDurationControlOnlineState"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

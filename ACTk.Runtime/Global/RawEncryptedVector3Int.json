@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RawEncryptedVector3Int",
+    "Windows": "RawEncryptedVector3Int",
+    "FixedDeop": "RawEncryptedVector3Int"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

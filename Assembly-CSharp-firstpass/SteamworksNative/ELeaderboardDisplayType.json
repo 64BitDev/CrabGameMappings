@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ELeaderboardDisplayType",
+    "Windows": "ELeaderboardDisplayType",
+    "FixedDeop": "ELeaderboardDisplayType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

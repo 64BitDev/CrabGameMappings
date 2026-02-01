@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamGameServerNetworkingUtils",
-    "Windows": "SteamGameServerNetworkingUtils",
-    "FixedDeop": "SteamGameServerNetworkingUtils"
-  }
-}

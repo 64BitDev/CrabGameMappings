@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_VerticalScroll_t",
+    "Windows": "HTML_VerticalScroll_t",
+    "FixedDeop": "HTML_VerticalScroll_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

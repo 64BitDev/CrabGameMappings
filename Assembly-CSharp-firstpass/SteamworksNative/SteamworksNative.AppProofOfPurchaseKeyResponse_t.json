@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "AppProofOfPurchaseKeyResponse_t",
-    "Windows": "AppProofOfPurchaseKeyResponse_t",
-    "FixedDeop": "AppProofOfPurchaseKeyResponse_t"
-  }
-}

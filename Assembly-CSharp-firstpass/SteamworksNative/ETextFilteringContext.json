@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ETextFilteringContext",
+    "Windows": "ETextFilteringContext",
+    "FixedDeop": "ETextFilteringContext"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

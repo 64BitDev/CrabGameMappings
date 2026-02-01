@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "TimedTrialStatus_t",
+    "Windows": "TimedTrialStatus_t",
+    "FixedDeop": "TimedTrialStatus_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

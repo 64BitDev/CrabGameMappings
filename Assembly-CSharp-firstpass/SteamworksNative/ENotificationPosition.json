@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ENotificationPosition",
+    "Windows": "ENotificationPosition",
+    "FixedDeop": "ENotificationPosition"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

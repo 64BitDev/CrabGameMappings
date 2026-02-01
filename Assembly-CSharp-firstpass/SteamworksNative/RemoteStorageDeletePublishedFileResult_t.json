@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageDeletePublishedFileResult_t",
+    "Windows": "RemoteStorageDeletePublishedFileResult_t",
+    "FixedDeop": "RemoteStorageDeletePublishedFileResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

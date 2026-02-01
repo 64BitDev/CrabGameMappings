@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EChatMemberStateChange",
-    "Windows": "EChatMemberStateChange",
-    "FixedDeop": "EChatMemberStateChange"
-  }
-}

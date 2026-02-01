@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "LeaderboardScoreUploaded_t",
+    "Windows": "LeaderboardScoreUploaded_t",
+    "FixedDeop": "LeaderboardScoreUploaded_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "IPCountry_t",
+    "Windows": "IPCountry_t",
+    "FixedDeop": "IPCountry_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RequestPlayersForGameProgressCallback_t",
-    "Windows": "RequestPlayersForGameProgressCallback_t",
-    "FixedDeop": "RequestPlayersForGameProgressCallback_t"
-  }
-}

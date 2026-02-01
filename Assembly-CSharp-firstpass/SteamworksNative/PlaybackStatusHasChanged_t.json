@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "PlaybackStatusHasChanged_t",
+    "Windows": "PlaybackStatusHasChanged_t",
+    "FixedDeop": "PlaybackStatusHasChanged_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

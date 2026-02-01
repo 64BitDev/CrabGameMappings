@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamGameSearch",
+    "Windows": "SteamGameSearch",
+    "FixedDeop": "SteamGameSearch"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

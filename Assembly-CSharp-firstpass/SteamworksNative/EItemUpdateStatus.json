@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EItemUpdateStatus",
+    "Windows": "EItemUpdateStatus",
+    "FixedDeop": "EItemUpdateStatus"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

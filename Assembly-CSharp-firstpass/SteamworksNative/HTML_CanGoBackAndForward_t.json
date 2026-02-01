@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTML_CanGoBackAndForward_t",
+    "Windows": "HTML_CanGoBackAndForward_t",
+    "FixedDeop": "HTML_CanGoBackAndForward_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

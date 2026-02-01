@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EServerMode",
+    "Windows": "EServerMode",
+    "FixedDeop": "EServerMode"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

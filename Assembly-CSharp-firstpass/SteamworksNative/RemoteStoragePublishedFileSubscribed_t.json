@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStoragePublishedFileSubscribed_t",
+    "Windows": "RemoteStoragePublishedFileSubscribed_t",
+    "FixedDeop": "RemoteStoragePublishedFileSubscribed_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

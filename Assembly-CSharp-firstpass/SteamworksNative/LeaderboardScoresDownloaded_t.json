@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "LeaderboardScoresDownloaded_t",
+    "Windows": "LeaderboardScoresDownloaded_t",
+    "FixedDeop": "LeaderboardScoresDownloaded_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

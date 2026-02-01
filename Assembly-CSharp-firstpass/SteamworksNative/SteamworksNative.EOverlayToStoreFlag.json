@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EOverlayToStoreFlag",
-    "Windows": "EOverlayToStoreFlag",
-    "FixedDeop": "EOverlayToStoreFlag"
-  }
-}

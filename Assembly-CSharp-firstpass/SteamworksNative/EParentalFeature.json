@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EParentalFeature",
+    "Windows": "EParentalFeature",
+    "FixedDeop": "EParentalFeature"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

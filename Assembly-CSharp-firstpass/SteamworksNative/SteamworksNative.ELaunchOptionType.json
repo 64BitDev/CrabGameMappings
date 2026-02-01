@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ELaunchOptionType",
-    "Windows": "ELaunchOptionType",
-    "FixedDeop": "ELaunchOptionType"
-  }
-}

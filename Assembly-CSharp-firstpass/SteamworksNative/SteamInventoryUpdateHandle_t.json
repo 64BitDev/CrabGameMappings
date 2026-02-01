@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamInventoryUpdateHandle_t",
+    "Windows": "SteamInventoryUpdateHandle_t",
+    "FixedDeop": "SteamInventoryUpdateHandle_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

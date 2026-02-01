@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "Constants",
+    "Windows": "Constants",
+    "FixedDeop": "Constants"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

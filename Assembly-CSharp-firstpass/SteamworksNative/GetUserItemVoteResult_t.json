@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "GetUserItemVoteResult_t",
+    "Windows": "GetUserItemVoteResult_t",
+    "FixedDeop": "GetUserItemVoteResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

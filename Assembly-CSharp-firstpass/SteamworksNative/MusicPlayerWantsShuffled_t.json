@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "MusicPlayerWantsShuffled_t",
+    "Windows": "MusicPlayerWantsShuffled_t",
+    "FixedDeop": "MusicPlayerWantsShuffled_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

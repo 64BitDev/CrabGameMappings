@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageAppSyncedClient_t",
+    "Windows": "RemoteStorageAppSyncedClient_t",
+    "FixedDeop": "RemoteStorageAppSyncedClient_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

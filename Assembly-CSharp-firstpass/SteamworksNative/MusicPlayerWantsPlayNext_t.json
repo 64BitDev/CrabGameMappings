@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "MusicPlayerWantsPlayNext_t",
+    "Windows": "MusicPlayerWantsPlayNext_t",
+    "FixedDeop": "MusicPlayerWantsPlayNext_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

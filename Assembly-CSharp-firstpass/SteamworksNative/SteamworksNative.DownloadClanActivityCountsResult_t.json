@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "DownloadClanActivityCountsResult_t",
-    "Windows": "DownloadClanActivityCountsResult_t",
-    "FixedDeop": "DownloadClanActivityCountsResult_t"
-  }
-}

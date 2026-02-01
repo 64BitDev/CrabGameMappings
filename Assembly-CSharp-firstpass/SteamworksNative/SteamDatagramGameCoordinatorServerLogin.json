@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamDatagramGameCoordinatorServerLogin",
+    "Windows": "SteamDatagramGameCoordinatorServerLogin",
+    "FixedDeop": "SteamDatagramGameCoordinatorServerLogin"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SubmitItemUpdateResult_t",
+    "Windows": "SubmitItemUpdateResult_t",
+    "FixedDeop": "SubmitItemUpdateResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

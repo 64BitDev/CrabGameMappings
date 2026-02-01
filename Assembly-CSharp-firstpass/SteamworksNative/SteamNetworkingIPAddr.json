@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetworkingIPAddr",
+    "Windows": "SteamNetworkingIPAddr",
+    "FixedDeop": "SteamNetworkingIPAddr"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamServerConnectFailure_t",
+    "Windows": "SteamServerConnectFailure_t",
+    "FixedDeop": "SteamServerConnectFailure_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

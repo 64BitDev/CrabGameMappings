@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RemoteStorageUpdateUserPublishedItemVoteResult_t",
-    "Windows": "RemoteStorageUpdateUserPublishedItemVoteResult_t",
-    "FixedDeop": "RemoteStorageUpdateUserPublishedItemVoteResult_t"
-  }
-}

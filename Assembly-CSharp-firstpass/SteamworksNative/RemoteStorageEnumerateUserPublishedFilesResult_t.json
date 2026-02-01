@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "RemoteStorageEnumerateUserPublishedFilesResult_t",
+    "Windows": "RemoteStorageEnumerateUserPublishedFilesResult_t",
+    "FixedDeop": "RemoteStorageEnumerateUserPublishedFilesResult_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

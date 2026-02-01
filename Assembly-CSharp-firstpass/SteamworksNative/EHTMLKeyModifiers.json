@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EHTMLKeyModifiers",
+    "Windows": "EHTMLKeyModifiers",
+    "FixedDeop": "EHTMLKeyModifiers"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

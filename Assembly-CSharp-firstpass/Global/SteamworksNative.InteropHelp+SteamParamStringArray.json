@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamParamStringArray",
-    "Windows": "SteamParamStringArray",
-    "FixedDeop": "SteamParamStringArray"
-  }
-}

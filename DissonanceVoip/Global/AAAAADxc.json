@@ -1,0 +1,119 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u109E\u109C\u10A6\u10A6\u10A6\u10A0\u10A7\u109F\u10A3\u109E\u1099",
+    "Windows": "\u10A7\u10A4\u109E\u10A5\u10A7\u1099\u10A5\u109C\u10A8\u109F\u109A",
+    "FixedDeop": "AAAAADxc"
+  },
+  "FieldMaps": {
+    "AAAAADxd": {
+      "Mac": "\u109D\u1099\u10A2\u10A8\u10A6\u109E\u10A4\u109C\u10A4\u10A6\u109A",
+      "FixedDeop": "AAAAADxd"
+    },
+    "AAAAADxe": {
+      "Mac": "\u109D\u10A5\u1099\u10A4\u109D\u1099\u10A6\u109D\u10A4\u109D\u109B",
+      "FixedDeop": "AAAAADxe"
+    },
+    "AAAAADxf": {
+      "Mac": "\u109E\u109E\u10A1\u10A3\u109E\u109E\u109A\u10A5\u1099\u10A2\u109C",
+      "FixedDeop": "AAAAADxf"
+    },
+    "AAAAADxg": {
+      "Mac": "\u10A3\u109F\u109D\u109F\u10A1\u10A5\u10A0\u10A1\u109D\u109D\u109D",
+      "FixedDeop": "AAAAADxg"
+    },
+    "AAAAADxh": {
+      "Mac": "\u109E\u10A0\u10A4\u10A2\u109F\u109C\u109D\u10A3\u109E\u10A2\u10A8",
+      "FixedDeop": "AAAAADxh"
+    },
+    "AAAAADxi": {
+      "Mac": "\u109A\u109F\u109E\u109B\u109D\u10A1\u109E\u10A1\u109B\u10A5\u10A0",
+      "FixedDeop": "AAAAADxi"
+    }
+  },
+  "MethodMaps": {
+    "AAAAADxj": {
+      "Mac": "\u109D\u109F\u109D\u10A1\u109C\u10A5\u109B\u10A6\u109B\u10A6\u1099",
+      "FixedDeop": "AAAAADxj"
+    },
+    "AAAAADxk": {
+      "Mac": "\u10A4\u10A5\u109C\u10A4\u1099\u109C\u10A3\u10A3\u10A2\u109C\u109D",
+      "FixedDeop": "AAAAADxk"
+    },
+    "AAAAADxl": {
+      "Mac": "\u10A3\u10A5\u1099\u10A3\u10A1\u10A5\u109D\u10A7\u10A1\u10A0\u109F",
+      "FixedDeop": "AAAAADxl"
+    },
+    "AAAAADxm": {
+      "Mac": "\u10A6\u109F\u10A5\u109B\u109C\u10A3\u10A8\u10A5\u109F\u109F\u10A7",
+      "FixedDeop": "AAAAADxm"
+    },
+    "AAAAADxn": {
+      "Mac": "\u109F\u10A1\u10A3\u10A3\u109F\u109F\u109E\u109D\u10A0\u10A7\u10A6",
+      "FixedDeop": "AAAAADxn"
+    },
+    "AAAAADxo": {
+      "Mac": "\u109F\u10A6\u10A8\u10A0\u10A6\u10A6\u10A6\u10A8\u10A0\u109B\u10A2",
+      "FixedDeop": "AAAAADxo"
+    },
+    "AAAAADxp": {
+      "Mac": "\u10A1\u10A8\u109D\u10A5\u10A4\u10A2\u109D\u1099\u109F\u10A7\u1099",
+      "FixedDeop": "AAAAADxp"
+    },
+    "AAAAADxq": {
+      "Mac": "\u10A0\u109D\u10A8\u1099\u109F\u10A0\u10A6\u10A2\u109B\u10A8\u10A3",
+      "FixedDeop": "AAAAADxq"
+    },
+    "AAAAADxr": {
+      "Mac": "\u10A5\u10A3\u10A4\u109A\u10A2\u10A4\u10A6\u109C\u109F\u10A4\u109A",
+      "FixedDeop": "AAAAADxr"
+    },
+    "AAAAADxs": {
+      "Mac": "\u10A7\u10A6\u10A6\u109D\u10A7\u109C\u10A6\u10A3\u109E\u109A\u109C",
+      "FixedDeop": "AAAAADxs"
+    },
+    "AAAAADxt": {
+      "Mac": "\u10A5\u10A4\u10A5\u10A4\u109B\u109A\u109D\u10A2\u1099\u1099\u10A2",
+      "FixedDeop": "AAAAADxt"
+    },
+    "AAAAADxu": {
+      "Mac": "\u10A2\u1099\u109D\u109A\u10A5\u10A3\u10A4\u109C\u1099\u109E\u10A8",
+      "FixedDeop": "AAAAADxu"
+    },
+    "AAAAADxv": {
+      "Mac": "\u109D\u109B\u10A6\u10A0\u1099\u109E\u109A\u109F\u10A0\u10A1\u10A2",
+      "FixedDeop": "AAAAADxv"
+    },
+    "AAAAADxw": {
+      "Mac": "\u10A6\u10A5\u1099\u109E\u10A4\u10A8\u10A8\u10A4\u10A8\u109F\u109C",
+      "FixedDeop": "AAAAADxw"
+    },
+    "AAAAADxx": {
+      "Mac": "\u1099\u1099\u10A2\u10A4\u10A4\u10A0\u109C\u109B\u109F\u10A4\u10A0",
+      "FixedDeop": "AAAAADxx"
+    },
+    "AAAAADxy": {
+      "Mac": "\u109D\u1099\u10A8\u10A0\u109F\u10A5\u10A4\u109A\u10A0\u109C\u10A0",
+      "FixedDeop": "AAAAADxy"
+    },
+    "AAAAADxz": {
+      "Mac": "\u109C\u10A7\u10A4\u10A7\u10A0\u109F\u109C\u10A5\u109F\u10A6\u1099",
+      "FixedDeop": "AAAAADxz"
+    },
+    "AAAAADyA": {
+      "Mac": "\u10A3\u109D\u10A3\u10A6\u109C\u109D\u1099\u10A4\u10A2\u109C\u10A3",
+      "FixedDeop": "AAAAADyA"
+    },
+    "AAAAADyB": {
+      "Mac": "\u109E\u10A2\u109D\u109E\u1099\u109C\u109A\u1099\u1099\u10A2\u10A4",
+      "FixedDeop": "AAAAADyB"
+    },
+    "AAAAADyC": {
+      "Mac": "\u10A6\u109B\u109B\u109F\u10A4\u10A7\u10A0\u10A8\u109E\u10A4\u10A2",
+      "FixedDeop": "AAAAADyC"
+    },
+    "AAAAADyD": {
+      "Mac": "\u10A7\u10A6\u109E\u10A6\u10A3\u109F\u10A1\u109D\u109E\u1099\u10A7",
+      "FixedDeop": "AAAAADyD"
+    }
+  }
+}

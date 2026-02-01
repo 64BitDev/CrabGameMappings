@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EItemStatistic",
+    "Windows": "EItemStatistic",
+    "FixedDeop": "EItemStatistic"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

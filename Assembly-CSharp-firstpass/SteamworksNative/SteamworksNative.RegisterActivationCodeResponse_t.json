@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "RegisterActivationCodeResponse_t",
-    "Windows": "RegisterActivationCodeResponse_t",
-    "FixedDeop": "RegisterActivationCodeResponse_t"
-  }
-}

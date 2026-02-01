@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "DownloadItemResult_t",
-    "Windows": "DownloadItemResult_t",
-    "FixedDeop": "DownloadItemResult_t"
-  }
-}

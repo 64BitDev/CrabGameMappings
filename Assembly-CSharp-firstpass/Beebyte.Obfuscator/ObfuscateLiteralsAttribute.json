@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ObfuscateLiteralsAttribute",
+    "Windows": "ObfuscateLiteralsAttribute",
+    "FixedDeop": "ObfuscateLiteralsAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ShakeType",
+    "Windows": "ShakeType",
+    "FixedDeop": "ShakeType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

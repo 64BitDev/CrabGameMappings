@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "PartyBeaconID_t",
-    "Windows": "PartyBeaconID_t",
-    "FixedDeop": "PartyBeaconID_t"
-  }
-}

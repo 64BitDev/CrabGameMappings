@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamParties",
+    "Windows": "SteamParties",
+    "FixedDeop": "SteamParties"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

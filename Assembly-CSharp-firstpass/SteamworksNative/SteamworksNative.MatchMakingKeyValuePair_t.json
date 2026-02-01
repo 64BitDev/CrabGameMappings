@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "MatchMakingKeyValuePair_t",
-    "Windows": "MatchMakingKeyValuePair_t",
-    "FixedDeop": "MatchMakingKeyValuePair_t"
-  }
-}

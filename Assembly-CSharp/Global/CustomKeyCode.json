@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "CustomKeyCode",
+    "Windows": "CustomKeyCode",
+    "FixedDeop": "CustomKeyCode"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HSteamNetConnection",
+    "Windows": "HSteamNetConnection",
+    "FixedDeop": "HSteamNetConnection"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

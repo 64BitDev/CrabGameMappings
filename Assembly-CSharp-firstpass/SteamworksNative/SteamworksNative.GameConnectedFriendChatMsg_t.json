@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GameConnectedFriendChatMsg_t",
-    "Windows": "GameConnectedFriendChatMsg_t",
-    "FixedDeop": "GameConnectedFriendChatMsg_t"
-  }
-}

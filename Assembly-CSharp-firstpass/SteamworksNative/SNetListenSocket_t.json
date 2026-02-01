@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SNetListenSocket_t",
+    "Windows": "SNetListenSocket_t",
+    "FixedDeop": "SNetListenSocket_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

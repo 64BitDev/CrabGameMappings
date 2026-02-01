@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EHTMLMouseButton",
-    "Windows": "EHTMLMouseButton",
-    "FixedDeop": "EHTMLMouseButton"
-  }
-}

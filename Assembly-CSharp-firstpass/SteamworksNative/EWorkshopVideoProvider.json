@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EWorkshopVideoProvider",
+    "Windows": "EWorkshopVideoProvider",
+    "FixedDeop": "EWorkshopVideoProvider"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

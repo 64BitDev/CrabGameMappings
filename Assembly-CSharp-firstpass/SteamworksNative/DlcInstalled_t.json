@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "DlcInstalled_t",
+    "Windows": "DlcInstalled_t",
+    "FixedDeop": "DlcInstalled_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

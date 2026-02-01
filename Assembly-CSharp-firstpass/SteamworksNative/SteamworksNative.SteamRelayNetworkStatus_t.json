@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamRelayNetworkStatus_t",
-    "Windows": "SteamRelayNetworkStatus_t",
-    "FixedDeop": "SteamRelayNetworkStatus_t"
-  }
-}

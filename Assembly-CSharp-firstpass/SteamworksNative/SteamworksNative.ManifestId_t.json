@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ManifestId_t",
-    "Windows": "ManifestId_t",
-    "FixedDeop": "ManifestId_t"
-  }
-}

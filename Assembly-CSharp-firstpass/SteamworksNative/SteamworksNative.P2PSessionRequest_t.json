@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "P2PSessionRequest_t",
-    "Windows": "P2PSessionRequest_t",
-    "FixedDeop": "P2PSessionRequest_t"
-  }
-}

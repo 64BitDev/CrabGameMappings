@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GlobalStatsReceived_t",
-    "Windows": "GlobalStatsReceived_t",
-    "FixedDeop": "GlobalStatsReceived_t"
-  }
-}

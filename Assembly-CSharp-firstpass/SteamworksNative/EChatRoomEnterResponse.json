@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EChatRoomEnterResponse",
+    "Windows": "EChatRoomEnterResponse",
+    "FixedDeop": "EChatRoomEnterResponse"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

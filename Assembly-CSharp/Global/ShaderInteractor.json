@@ -3,5 +3,7 @@
     "Mac": "ShaderInteractor",
     "Windows": "ShaderInteractor",
     "FixedDeop": "ShaderInteractor"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

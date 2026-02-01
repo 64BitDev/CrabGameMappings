@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ERemoteStoragePublishedFileVisibility",
+    "Windows": "ERemoteStoragePublishedFileVisibility",
+    "FixedDeop": "ERemoteStoragePublishedFileVisibility"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

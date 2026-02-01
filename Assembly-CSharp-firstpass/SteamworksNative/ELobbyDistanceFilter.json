@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ELobbyDistanceFilter",
+    "Windows": "ELobbyDistanceFilter",
+    "FixedDeop": "ELobbyDistanceFilter"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

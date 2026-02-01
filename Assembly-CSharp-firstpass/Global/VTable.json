@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "VTable",
+    "Windows": "VTable",
+    "FixedDeop": "VTable"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

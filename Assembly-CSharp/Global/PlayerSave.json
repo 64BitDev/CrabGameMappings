@@ -3,5 +3,7 @@
     "Mac": "PlayerSave",
     "Windows": "PlayerSave",
     "FixedDeop": "PlayerSave"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

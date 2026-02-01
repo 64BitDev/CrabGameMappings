@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EMarketNotAllowedReasonFlags",
+    "Windows": "EMarketNotAllowedReasonFlags",
+    "FixedDeop": "EMarketNotAllowedReasonFlags"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

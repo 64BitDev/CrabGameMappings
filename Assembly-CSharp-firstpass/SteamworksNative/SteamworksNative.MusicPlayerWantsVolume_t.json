@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "MusicPlayerWantsVolume_t",
-    "Windows": "MusicPlayerWantsVolume_t",
-    "FixedDeop": "MusicPlayerWantsVolume_t"
-  }
-}

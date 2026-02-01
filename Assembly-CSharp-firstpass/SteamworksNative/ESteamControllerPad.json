@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ESteamControllerPad",
+    "Windows": "ESteamControllerPad",
+    "FixedDeop": "ESteamControllerPad"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

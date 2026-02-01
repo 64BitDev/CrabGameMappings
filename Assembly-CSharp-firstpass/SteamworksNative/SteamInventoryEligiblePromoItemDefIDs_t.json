@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamInventoryEligiblePromoItemDefIDs_t",
+    "Windows": "SteamInventoryEligiblePromoItemDefIDs_t",
+    "FixedDeop": "SteamInventoryEligiblePromoItemDefIDs_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

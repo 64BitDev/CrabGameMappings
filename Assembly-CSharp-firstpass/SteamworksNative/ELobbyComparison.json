@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ELobbyComparison",
+    "Windows": "ELobbyComparison",
+    "FixedDeop": "ELobbyComparison"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ClanOfficerListResponse_t",
-    "Windows": "ClanOfficerListResponse_t",
-    "FixedDeop": "ClanOfficerListResponse_t"
-  }
-}

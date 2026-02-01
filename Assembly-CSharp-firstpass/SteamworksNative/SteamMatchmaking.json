@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamMatchmaking",
+    "Windows": "SteamMatchmaking",
+    "FixedDeop": "SteamMatchmaking"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

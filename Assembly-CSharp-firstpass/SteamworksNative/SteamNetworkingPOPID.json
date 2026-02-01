@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamNetworkingPOPID",
+    "Windows": "SteamNetworkingPOPID",
+    "FixedDeop": "SteamNetworkingPOPID"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "IShakeParameters",
-    "Windows": "IShakeParameters",
-    "FixedDeop": "IShakeParameters"
-  }
-}

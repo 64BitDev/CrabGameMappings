@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ISteamNetworkingSignalingRecvContext",
+    "Windows": "ISteamNetworkingSignalingRecvContext",
+    "FixedDeop": "ISteamNetworkingSignalingRecvContext"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

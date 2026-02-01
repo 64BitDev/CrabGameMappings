@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "UserStatsStored_t",
+    "Windows": "UserStatsStored_t",
+    "FixedDeop": "UserStatsStored_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

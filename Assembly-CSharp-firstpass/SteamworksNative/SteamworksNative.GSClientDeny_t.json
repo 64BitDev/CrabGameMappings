@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GSClientDeny_t",
-    "Windows": "GSClientDeny_t",
-    "FixedDeop": "GSClientDeny_t"
-  }
-}

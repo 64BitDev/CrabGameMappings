@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "NumberOfCurrentPlayers_t",
+    "Windows": "NumberOfCurrentPlayers_t",
+    "FixedDeop": "NumberOfCurrentPlayers_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

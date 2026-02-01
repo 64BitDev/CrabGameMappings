@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "FriendsGetFollowerCount_t",
+    "Windows": "FriendsGetFollowerCount_t",
+    "FixedDeop": "FriendsGetFollowerCount_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

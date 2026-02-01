@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "CSteamGameServerAPIContext",
-    "Windows": "CSteamGameServerAPIContext",
-    "FixedDeop": "CSteamGameServerAPIContext"
-  }
-}

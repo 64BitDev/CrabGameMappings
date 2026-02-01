@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ComputeNewPlayerCompatibilityResult_t",
-    "Windows": "ComputeNewPlayerCompatibilityResult_t",
-    "FixedDeop": "ComputeNewPlayerCompatibilityResult_t"
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "FavoritesListAccountsUpdated_t",
+    "Windows": "FavoritesListAccountsUpdated_t",
+    "FixedDeop": "FavoritesListAccountsUpdated_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ELobbyType",
+    "Windows": "ELobbyType",
+    "FixedDeop": "ELobbyType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

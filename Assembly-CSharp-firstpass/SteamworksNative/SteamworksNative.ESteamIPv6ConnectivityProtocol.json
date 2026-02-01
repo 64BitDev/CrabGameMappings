@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ESteamIPv6ConnectivityProtocol",
-    "Windows": "ESteamIPv6ConnectivityProtocol",
-    "FixedDeop": "ESteamIPv6ConnectivityProtocol"
-  }
-}

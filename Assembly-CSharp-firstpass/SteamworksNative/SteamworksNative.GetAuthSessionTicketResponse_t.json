@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "GetAuthSessionTicketResponse_t",
-    "Windows": "GetAuthSessionTicketResponse_t",
-    "FixedDeop": "GetAuthSessionTicketResponse_t"
-  }
-}

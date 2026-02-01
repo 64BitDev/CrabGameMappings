@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EFriendFlags",
+    "Windows": "EFriendFlags",
+    "FixedDeop": "EFriendFlags"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

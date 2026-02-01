@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ISteamNetworkingSignalingRecvContext",
-    "Windows": "ISteamNetworkingSignalingRecvContext",
-    "FixedDeop": "ISteamNetworkingSignalingRecvContext"
-  }
-}

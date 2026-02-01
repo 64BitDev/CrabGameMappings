@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "Decal",
+    "Windows": "Decal",
+    "FixedDeop": "Decal"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

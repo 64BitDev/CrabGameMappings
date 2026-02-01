@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "MusicPlayerWantsPlayingRepeatStatus_t",
-    "Windows": "MusicPlayerWantsPlayingRepeatStatus_t",
-    "FixedDeop": "MusicPlayerWantsPlayingRepeatStatus_t"
-  }
-}

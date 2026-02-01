@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "CallbackIdentities",
-    "Windows": "CallbackIdentities",
-    "FixedDeop": "CallbackIdentities"
-  }
-}

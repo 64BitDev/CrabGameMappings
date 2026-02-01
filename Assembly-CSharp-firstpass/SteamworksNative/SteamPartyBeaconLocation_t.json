@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamPartyBeaconLocation_t",
+    "Windows": "SteamPartyBeaconLocation_t",
+    "FixedDeop": "SteamPartyBeaconLocation_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

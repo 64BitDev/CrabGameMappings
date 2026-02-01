@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "IShakeParameters",
+    "Windows": "IShakeParameters",
+    "FixedDeop": "IShakeParameters"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ValidateAuthTicketResponse_t",
+    "Windows": "ValidateAuthTicketResponse_t",
+    "FixedDeop": "ValidateAuthTicketResponse_t"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

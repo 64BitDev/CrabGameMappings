@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SteamFriends",
+    "Windows": "SteamFriends",
+    "FixedDeop": "SteamFriends"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

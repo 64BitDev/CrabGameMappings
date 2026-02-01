@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "SteamNetworkingMessage_t",
-    "Windows": "SteamNetworkingMessage_t",
-    "FixedDeop": "SteamNetworkingMessage_t"
-  }
-}

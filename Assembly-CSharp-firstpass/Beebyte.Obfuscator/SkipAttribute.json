@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "SkipAttribute",
+    "Windows": "SkipAttribute",
+    "FixedDeop": "SkipAttribute"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

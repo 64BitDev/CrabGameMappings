@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "HTTPCookieContainerHandle",
+    "Windows": "HTTPCookieContainerHandle",
+    "FixedDeop": "HTTPCookieContainerHandle"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

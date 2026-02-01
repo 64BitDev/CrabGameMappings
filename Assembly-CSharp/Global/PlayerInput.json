@@ -3,5 +3,7 @@
     "Mac": "PlayerInput",
     "Windows": "PlayerInput",
     "FixedDeop": "PlayerInput"
-  }
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
 }

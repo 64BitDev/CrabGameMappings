@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "ISteamMatchmakingRulesResponse",
+    "Windows": "ISteamMatchmakingRulesResponse",
+    "FixedDeop": "ISteamMatchmakingRulesResponse"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

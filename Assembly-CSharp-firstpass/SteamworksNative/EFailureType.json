@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "EFailureType",
+    "Windows": "EFailureType",
+    "FixedDeop": "EFailureType"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}
