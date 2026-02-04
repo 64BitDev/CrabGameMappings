@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ObscuredQuaternion",
-    "Windows": "ObscuredQuaternion",
-    "FixedDeop": "ObscuredQuaternion"
-  }
-}

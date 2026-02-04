@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "__StaticArrayInitTypeSize=10",
-    "Windows": "__StaticArrayInitTypeSize=10",
-    "FixedDeop": "__StaticArrayInitTypeSize=10"
-  }
-}

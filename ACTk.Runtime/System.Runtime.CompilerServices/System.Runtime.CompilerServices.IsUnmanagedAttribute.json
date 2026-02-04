@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "IsUnmanagedAttribute",
-    "Windows": "IsUnmanagedAttribute",
-    "FixedDeop": "IsUnmanagedAttribute"
-  }
-}

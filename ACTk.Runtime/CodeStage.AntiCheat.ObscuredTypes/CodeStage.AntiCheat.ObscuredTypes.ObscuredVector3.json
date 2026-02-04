@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ObscuredVector3",
-    "Windows": "ObscuredVector3",
-    "FixedDeop": "ObscuredVector3"
-  }
-}

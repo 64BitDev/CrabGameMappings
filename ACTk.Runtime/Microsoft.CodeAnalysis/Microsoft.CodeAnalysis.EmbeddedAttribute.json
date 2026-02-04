@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "EmbeddedAttribute",
-    "Windows": "EmbeddedAttribute",
-    "FixedDeop": "EmbeddedAttribute"
-  }
-}

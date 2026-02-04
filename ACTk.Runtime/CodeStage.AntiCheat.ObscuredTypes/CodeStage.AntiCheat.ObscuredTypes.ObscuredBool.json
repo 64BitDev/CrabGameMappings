@@ -1,7 +1,0 @@
-{
-  "ObjectMaps": {
-    "Mac": "ObscuredBool",
-    "Windows": "ObscuredBool",
-    "FixedDeop": "ObscuredBool"
-  }
-}
