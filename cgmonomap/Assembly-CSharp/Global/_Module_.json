@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u003CModule\u003E",
+    "Windows": "\u003CModule\u003E",
+    "FixedDeop": "\u003CModule\u003E"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,26 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u109D\u10A5\u10A0\u10A3\u10A7\u10A4\u10A4\u10A5\u10A4\u10A0\u10A3",
+    "Windows": "\u10A2\u1099\u10A2\u10A0\u109A\u10A6\u10A2\u10A5\u10A8\u10A4\u10A3",
+    "FixedDeop": "AAAAAHHU"
+  },
+  "FieldMaps": {
+    "AAAAAHHV": {
+      "Mac": "\u109A\u10A5\u109F\u10A5\u109B\u10A8\u10A6\u10A1\u109F\u109F\u10A1",
+      "FixedDeop": "AAAAAHHV"
+    },
+    "AAAAAHHW": {
+      "Mac": "\u10A3\u10A1\u109C\u10A7\u10A7\u10A3\u10A4\u10A0\u109F\u109A\u10A0",
+      "FixedDeop": "AAAAAHHW"
+    },
+    "AAAAAHHX": {
+      "Mac": "\u109C\u10A8\u10A8\u109C\u10A7\u109E\u10A8\u109D\u109F\u10A1\u1099",
+      "FixedDeop": "AAAAAHHX"
+    },
+    "AAAAAHHY": {
+      "Mac": "\u10A0\u10A6\u109A\u109D\u109D\u1099\u10A1\u109A\u10A2\u10A8\u10A3",
+      "FixedDeop": "AAAAAHHY"
+    }
+  },
+  "MethodMaps": {}
+}

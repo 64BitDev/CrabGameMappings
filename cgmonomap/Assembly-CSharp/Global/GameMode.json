@@ -1,0 +1,30 @@
+{
+  "ObjectMaps": {
+    "Mac": "GameMode",
+    "Windows": "GameMode",
+    "FixedDeop": "GameMode"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {
+    "AAAAALaV": {
+      "Mac": "\u109B\u10A8\u1099\u10A4\u109A\u1099\u10A4\u109A\u109D\u10A6\u10A2",
+      "FixedDeop": "AAAAALaV"
+    },
+    "AAAAALaW": {
+      "Mac": "\u10A4\u109F\u109F\u10A4\u109D\u10A6\u1099\u109A\u1099\u10A5\u10A4",
+      "FixedDeop": "AAAAALaW"
+    },
+    "AAAAALaX": {
+      "Mac": "\u109C\u109E\u109D\u1099\u10A8\u10A4\u1099\u10A5\u109A\u109A\u10A6",
+      "FixedDeop": "AAAAALaX"
+    },
+    "AAAAALaY": {
+      "Mac": "\u109F\u10A7\u1099\u10A4\u10A8\u109E\u109E\u10A6\u10A7\u10A5\u10A1",
+      "FixedDeop": "AAAAALaY"
+    },
+    "AAAAALaZ": {
+      "Mac": "\u109D\u10A3\u10A1\u109E\u109D\u10A4\u109F\u10A0\u109E\u1099\u10A3",
+      "FixedDeop": "AAAAALaZ"
+    }
+  }
+}

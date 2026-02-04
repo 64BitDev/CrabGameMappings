@@ -1,0 +1,9 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u10A3\u109F\u10A5\u109C\u109B\u10A5\u10A3\u109A\u10A7\u10A5\u109E",
+    "Windows": "\u1099\u1099\u109E\u10A8\u109C\u10A8\u10A4\u10A2\u109C\u10A8\u109C",
+    "FixedDeop": "AAAAADUQ"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {}
+}

@@ -1,0 +1,155 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u109C\u10A4\u1099\u109C\u10A0\u109B\u109E\u10A0\u10A5\u10A7\u10A1",
+    "Windows": "\u10A0\u10A7\u109B\u10A2\u109F\u109D\u10A5\u10A8\u109C\u10A8\u109E",
+    "FixedDeop": "MoveAlert"
+  },
+  "FieldMaps": {
+    "AAAAAKNN": {
+      "Mac": "\u109F\u109B\u1099\u10A5\u10A0\u10A6\u1099\u109B\u109F\u10A3\u109F",
+      "FixedDeop": "AAAAAKNN"
+    },
+    "AAAAAKNO": {
+      "Mac": "\u10A3\u109B\u10A0\u109D\u109C\u1099\u10A4\u10A2\u109A\u109B\u109E",
+      "FixedDeop": "AAAAAKNO"
+    },
+    "AAAAAKNP": {
+      "Mac": "\u109D\u10A4\u10A3\u10A2\u10A0\u10A2\u109C\u109E\u10A1\u10A4\u10A6",
+      "FixedDeop": "AAAAAKNP"
+    }
+  },
+  "MethodMaps": {
+    "AAAAAKNQ": {
+      "Mac": "\u109F\u10A3\u10A0\u10A8\u1099\u109B\u109F\u109F\u109D\u109E\u109D",
+      "FixedDeop": "AAAAAKNQ"
+    },
+    "AAAAAKNR": {
+      "Mac": "\u109D\u1099\u10A3\u10A4\u10A5\u109D\u10A8\u109C\u109D\u109C\u10A5",
+      "FixedDeop": "AAAAAKNR"
+    },
+    "AAAAAKNS": {
+      "Mac": "\u10A3\u10A0\u1099\u10A8\u10A1\u10A7\u10A8\u109E\u109C\u10A4\u10A4",
+      "FixedDeop": "AAAAAKNS"
+    },
+    "AAAAAKNT": {
+      "Mac": "\u109A\u109E\u10A2\u10A7\u109F\u10A4\u10A2\u109B\u109E\u10A3\u109B",
+      "FixedDeop": "AAAAAKNT"
+    },
+    "AAAAAKNU": {
+      "Mac": "\u10A7\u10A1\u109E\u109D\u1099\u109D\u109D\u10A3\u109A\u109D\u109E",
+      "FixedDeop": "AAAAAKNU"
+    },
+    "AAAAAKNV": {
+      "Mac": "\u109F\u109A\u109B\u109B\u109B\u10A3\u109D\u109F\u10A3\u109B\u109B",
+      "FixedDeop": "AAAAAKNV"
+    },
+    "AAAAAKNW": {
+      "Mac": "\u10A8\u10A4\u109B\u109B\u10A3\u10A1\u109C\u10A8\u1099\u109B\u109C",
+      "FixedDeop": "AAAAAKNW"
+    },
+    "AAAAAKNX": {
+      "Mac": "\u109C\u10A3\u10A2\u10A6\u109A\u109C\u10A0\u10A0\u109E\u10A4\u10A1",
+      "FixedDeop": "AAAAAKNX"
+    },
+    "AAAAAKNY": {
+      "Mac": "\u10A2\u109B\u10A2\u109C\u10A7\u10A5\u10A3\u10A4\u109A\u109E\u109F",
+      "FixedDeop": "AAAAAKNY"
+    },
+    "AAAAAKNZ": {
+      "Mac": "\u109A\u10A0\u10A7\u10A1\u10A8\u10A2\u10A2\u109B\u10A7\u10A3\u10A2",
+      "FixedDeop": "AAAAAKNZ"
+    },
+    "AAAAAKNa": {
+      "Mac": "\u10A0\u10A8\u109F\u10A5\u10A4\u10A5\u10A4\u109A\u10A0\u109D\u10A8",
+      "FixedDeop": "AAAAAKNa"
+    },
+    "AAAAAKNb": {
+      "Mac": "\u109B\u10A2\u109C\u10A5\u109B\u10A5\u1099\u109E\u10A5\u109E\u109E",
+      "FixedDeop": "AAAAAKNb"
+    },
+    "AAAAAKNc": {
+      "Mac": "\u10A6\u10A7\u10A8\u10A3\u10A8\u109E\u109F\u10A3\u1099\u10A5\u10A0",
+      "FixedDeop": "AAAAAKNc"
+    },
+    "AAAAAKNd": {
+      "Mac": "\u109E\u1099\u109C\u10A3\u109A\u109A\u10A6\u10A7\u10A5\u109F\u10A0",
+      "FixedDeop": "AAAAAKNd"
+    },
+    "AAAAAKNe": {
+      "Mac": "\u109A\u10A7\u10A2\u10A6\u109E\u10A8\u10A1\u10A8\u109B\u109D\u1099",
+      "FixedDeop": "AAAAAKNe"
+    },
+    "AAAAAKNf": {
+      "Mac": "\u10A5\u109A\u10A6\u109D\u10A1\u109D\u109C\u10A8\u109C\u109A\u109D",
+      "FixedDeop": "AAAAAKNf"
+    },
+    "AAAAAKNg": {
+      "Mac": "\u10A7\u10A0\u109C\u10A8\u109C\u10A8\u109B\u10A2\u10A2\u109A\u109B",
+      "FixedDeop": "AAAAAKNg"
+    },
+    "AAAAAKNh": {
+      "Mac": "\u10A4\u109F\u109F\u10A0\u10A8\u10A8\u1099\u109F\u10A8\u10A8\u10A0",
+      "FixedDeop": "AAAAAKNh"
+    },
+    "AAAAAKNi": {
+      "Mac": "\u10A1\u10A8\u10A4\u1099\u109C\u109F\u10A6\u10A1\u109C\u10A0\u10A1",
+      "FixedDeop": "AAAAAKNi"
+    },
+    "AAAAAKNj": {
+      "Mac": "\u10A2\u10A4\u10A4\u109C\u1099\u109D\u109E\u10A4\u10A4\u10A4\u10A6",
+      "FixedDeop": "AAAAAKNj"
+    },
+    "AAAAAKNk": {
+      "Mac": "\u1099\u1099\u109A\u109D\u109D\u10A2\u109D\u109B\u109D\u109C\u1099",
+      "FixedDeop": "AAAAAKNk"
+    },
+    "AAAAAKNl": {
+      "Mac": "\u10A7\u10A1\u10A6\u10A2\u109E\u10A4\u109E\u10A4\u10A8\u109F\u109E",
+      "FixedDeop": "AAAAAKNl"
+    },
+    "AAAAAKNm": {
+      "Mac": "\u10A6\u109F\u109F\u1099\u10A0\u10A1\u109C\u10A8\u10A2\u109D\u10A0",
+      "FixedDeop": "AAAAAKNm"
+    },
+    "AAAAAKNn": {
+      "Mac": "\u10A4\u1099\u109E\u109A\u10A1\u10A2\u10A2\u10A6\u10A2\u10A6\u10A0",
+      "FixedDeop": "AAAAAKNn"
+    },
+    "AAAAAKNo": {
+      "Mac": "\u109B\u109C\u109A\u10A0\u10A3\u1099\u10A8\u10A8\u10A8\u109B\u109C",
+      "FixedDeop": "AAAAAKNo"
+    },
+    "AAAAAKNp": {
+      "Mac": "\u10A7\u10A0\u109F\u10A7\u10A2\u1099\u10A4\u10A5\u10A0\u109A\u10A8",
+      "FixedDeop": "AAAAAKNp"
+    },
+    "AAAAAKNq": {
+      "Mac": "\u109A\u10A7\u10A5\u109A\u10A0\u10A6\u109E\u10A3\u10A7\u109A\u10A8",
+      "FixedDeop": "AAAAAKNq"
+    },
+    "AAAAAKNr": {
+      "Mac": "\u10A6\u10A2\u10A2\u1099\u109B\u1099\u10A4\u10A0\u109D\u10A8\u10A2",
+      "FixedDeop": "AAAAAKNr"
+    },
+    "AAAAAKNs": {
+      "Mac": "\u10A4\u10A5\u10A5\u10A4\u10A5\u10A1\u10A2\u10A5\u10A5\u109B\u10A4",
+      "FixedDeop": "AAAAAKNs"
+    },
+    "AAAAAKNt": {
+      "Mac": "\u10A4\u1099\u10A2\u109C\u109B\u109C\u109B\u10A8\u109E\u109B\u109F",
+      "FixedDeop": "AAAAAKNt"
+    },
+    "AAAAAKNu": {
+      "Mac": "\u10A8\u10A5\u109E\u10A6\u109E\u10A0\u10A5\u10A2\u109F\u109C\u1099",
+      "FixedDeop": "AAAAAKNu"
+    },
+    "AAAAAKNv": {
+      "Mac": "\u109F\u109E\u109B\u10A8\u109E\u1099\u10A2\u10A0\u10A6\u10A4\u109D",
+      "FixedDeop": "AAAAAKNv"
+    },
+    "AAAAAKNw": {
+      "Mac": "\u10A5\u109E\u10A5\u10A6\u10A3\u109B\u10A6\u10A0\u10A4\u109E\u10A5",
+      "FixedDeop": "AAAAAKNw"
+    }
+  }
+}

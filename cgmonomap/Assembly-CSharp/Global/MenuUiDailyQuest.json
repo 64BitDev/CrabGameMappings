@@ -1,0 +1,62 @@
+{
+  "ObjectMaps": {
+    "Mac": "\u1099\u10A0\u109A\u109F\u10A0\u10A2\u109D\u10A4\u109D\u109F\u10A8",
+    "Windows": "\u109B\u10A6\u10A7\u10A6\u109C\u109E\u10A2\u10A1\u10A1\u10A1\u10A7",
+    "FixedDeop": "MenuUiDailyQuest"
+  },
+  "FieldMaps": {},
+  "MethodMaps": {
+    "AAAAAKwM": {
+      "Mac": "\u10A5\u10A0\u10A3\u10A0\u109E\u10A5\u1099\u10A4\u10A0\u109C\u10A7",
+      "FixedDeop": "AAAAAKwM"
+    },
+    "AAAAAKwN": {
+      "Mac": "\u109E\u10A1\u10A4\u10A6\u109E\u109E\u109C\u10A8\u109B\u109C\u109A",
+      "FixedDeop": "AAAAAKwN"
+    },
+    "AAAAAKwO": {
+      "Mac": "\u109C\u10A5\u10A1\u109B\u10A3\u10A2\u10A3\u10A2\u10A7\u10A1\u10A0",
+      "FixedDeop": "AAAAAKwO"
+    },
+    "AAAAAKwP": {
+      "Mac": "\u10A4\u10A0\u10A0\u10A6\u109A\u10A0\u109B\u10A3\u109B\u109E\u109F",
+      "FixedDeop": "AAAAAKwP"
+    },
+    "AAAAAKwQ": {
+      "Mac": "\u109E\u109C\u10A6\u10A8\u10A5\u10A6\u10A3\u109A\u10A7\u1099\u109A",
+      "FixedDeop": "AAAAAKwQ"
+    },
+    "AAAAAKwR": {
+      "Mac": "\u10A5\u10A5\u10A8\u109D\u10A2\u109F\u109F\u10A3\u109C\u109B\u109B",
+      "FixedDeop": "AAAAAKwR"
+    },
+    "AAAAAKwS": {
+      "Mac": "\u10A1\u109E\u10A6\u10A4\u10A5\u10A0\u109B\u10A4\u109C\u109D\u10A2",
+      "FixedDeop": "AAAAAKwS"
+    },
+    "AAAAAKwT": {
+      "Mac": "\u10A2\u10A8\u109A\u10A7\u10A8\u10A6\u10A8\u10A5\u10A4\u10A7\u10A6",
+      "FixedDeop": "AAAAAKwT"
+    },
+    "AAAAAKwU": {
+      "Mac": "\u10A0\u10A3\u10A1\u1099\u10A0\u10A5\u10A2\u10A1\u109B\u109E\u10A6",
+      "FixedDeop": "AAAAAKwU"
+    },
+    "AAAAAKwV": {
+      "Mac": "\u10A4\u10A7\u10A0\u109F\u109B\u1099\u1099\u10A7\u109D\u1099\u1099",
+      "FixedDeop": "AAAAAKwV"
+    },
+    "AAAAAKwW": {
+      "Mac": "\u109E\u109C\u10A7\u109F\u10A7\u109A\u109D\u109F\u109C\u109A\u10A0",
+      "FixedDeop": "AAAAAKwW"
+    },
+    "AAAAAKwX": {
+      "Mac": "\u10A0\u10A8\u109D\u10A2\u10A1\u1099\u109E\u109C\u10A8\u10A0\u109E",
+      "FixedDeop": "AAAAAKwX"
+    },
+    "AAAAAKwY": {
+      "Mac": "\u10A1\u10A8\u1099\u10A1\u10A7\u109C\u109E\u109A\u1099\u10A7\u10A4",
+      "FixedDeop": "AAAAAKwY"
+    }
+  }
+}
