@@ -5,17 +5,17 @@
     "FixedDeop": "AAAAAGbO"
   },
   "FieldMaps": {
-    "AAAAAGbP": {
+    "IsRecording": {
       "Mac": "\u109E\u109A\u10A4\u10A7\u109E\u10A6\u10A1\u109D\u109C\u109C\u109D",
-      "FixedDeop": "AAAAAGbP"
+      "FixedDeop": "IsRecording"
     },
-    "AAAAAGbQ": {
+    "Device": {
       "Mac": "\u10A7\u109D\u109B\u10A1\u10A5\u10A8\u10A2\u109C\u10A6\u10A1\u109C",
-      "FixedDeop": "AAAAAGbQ"
+      "FixedDeop": "Device"
     },
-    "AAAAAGbR": {
+    "Latency": {
       "Mac": "\u10A1\u10A2\u10A1\u10A0\u109F\u109F\u10A3\u10A7\u10A2\u10A3\u10A5",
-      "FixedDeop": "AAAAAGbR"
+      "FixedDeop": "Latency"
     }
   },
   "MethodMaps": {}

@@ -6,11 +6,11 @@
   },
   "FieldMaps": {
     "AAAAAASs": {
-      "Mac": "\u003C\u10A8\u109B\u10A4\u109E\u10A2\u10A8\u109D\u109D\u10A1\u10A5\u10A3\u003Ek__BackingField",
+      "Mac": "\u10A2\u109C\u109F\u10A6\u109C\u10A1\u10A4\u10A7\u109F\u10A6\u1099",
       "FixedDeop": "AAAAAASs"
     },
     "AAAAAASt": {
-      "Mac": "\u10A2\u109C\u109F\u10A6\u109C\u10A1\u10A4\u10A7\u109F\u10A6\u1099",
+      "Mac": "\u003C\u10A8\u109B\u10A4\u109E\u10A2\u10A8\u109D\u109D\u10A1\u10A5\u10A3\u003Ek__BackingField",
       "FixedDeop": "AAAAAASt"
     }
   },

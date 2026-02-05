@@ -5,32 +5,32 @@
     "FixedDeop": "PlayerManager"
   },
   "FieldMaps": {
-    "AAAAANTU": {
-      "Mac": "\u003C\u109A\u10A1\u1099\u109A\u1099\u10A4\u10A5\u109B\u10A8\u10A5\u10A0\u003Ek__BackingField",
-      "FixedDeop": "AAAAANTU"
-    },
-    "AAAAANTV": {
-      "Mac": "\u003C\u10A4\u10A0\u10A4\u10A0\u10A7\u10A2\u109C\u109F\u10A7\u109A\u10A7\u003Ek__BackingField",
-      "FixedDeop": "AAAAANTV"
-    },
-    "AAAAANTW": {
-      "Mac": "\u003C\u10A0\u109F\u109B\u10A0\u109F\u10A2\u109C\u109D\u109A\u10A8\u10A1\u003Ek__BackingField",
-      "FixedDeop": "AAAAANTW"
-    },
-    "AAAAANTX": {
-      "Mac": "\u10A8\u10A6\u10A8\u10A8\u10A8\u10A3\u109B\u109D\u10A3\u10A2\u109C",
-      "FixedDeop": "AAAAANTX"
-    },
-    "AAAAANTY": {
+    "ping": {
       "Mac": "\u10A5\u109A\u10A0\u1099\u10A8\u10A6\u10A6\u10A3\u10A2\u10A1\u109D",
-      "FixedDeop": "AAAAANTY"
+      "FixedDeop": "ping"
     },
-    "AAAAANTZ": {
+    "onlinePlayerMovement": {
       "Mac": "\u109D\u10A0\u10A5\u10A2\u109E\u109F\u10A8\u10A8\u10A0\u10A7\u10A4",
-      "FixedDeop": "AAAAANTZ"
+      "FixedDeop": "onlinePlayerMovement"
+    },
+    "profileTexture": {
+      "Mac": "\u10A0\u109D\u10A5\u109D\u109C\u10A4\u1099\u10A1\u109B\u10A3\u10A0",
+      "FixedDeop": "profileTexture"
+    },
+    "_ping": {
+      "Mac": "\u003C\u109A\u10A1\u1099\u109A\u1099\u10A4\u10A5\u109B\u10A8\u10A5\u10A0\u003Ek__BackingField",
+      "FixedDeop": "_ping"
+    },
+    "_onlinePlayerMovement": {
+      "Mac": "\u003C\u10A4\u10A0\u10A4\u10A0\u10A7\u10A2\u109C\u109F\u10A7\u109A\u10A7\u003Ek__BackingField",
+      "FixedDeop": "_onlinePlayerMovement"
+    },
+    "_profileTexture": {
+      "Mac": "\u003C\u10A0\u109F\u109B\u10A0\u109F\u10A2\u109C\u109D\u109A\u10A8\u10A1\u003Ek__BackingField",
+      "FixedDeop": "_profileTexture"
     },
     "AAAAANTa": {
-      "Mac": "\u10A0\u109D\u10A5\u109D\u109C\u10A4\u1099\u10A1\u109B\u10A3\u10A0",
+      "Mac": "\u10A8\u10A6\u10A8\u10A8\u10A8\u10A3\u109B\u109D\u10A3\u10A2\u109C",
       "FixedDeop": "AAAAANTa"
     }
   },

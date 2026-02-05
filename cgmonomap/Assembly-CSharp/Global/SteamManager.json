@@ -5,64 +5,64 @@
     "FixedDeop": "SteamManager"
   },
   "FieldMaps": {
-    "AAAAAPZW": {
+    "PlayerName": {
+      "Mac": "\u10A1\u10A0\u10A7\u10A7\u1099\u10A0\u10A3\u1099\u10A2\u109D\u109C",
+      "FixedDeop": "PlayerName"
+    },
+    "PlayerSteamId": {
+      "Mac": "\u10A8\u109E\u10A5\u109F\u10A4\u10A6\u1099\u10A7\u10A1\u10A4\u109F",
+      "FixedDeop": "PlayerSteamId"
+    },
+    "PlayerSteamIdString": {
+      "Mac": "\u109F\u10A3\u1099\u10A3\u10A7\u10A6\u10A0\u109C\u109E\u109C\u10A1",
+      "FixedDeop": "PlayerSteamIdString"
+    },
+    "lobbyOwnerSteamId": {
+      "Mac": "\u109B\u10A7\u10A8\u10A5\u109C\u109F\u109B\u109E\u10A7\u10A5\u109B",
+      "FixedDeop": "lobbyOwnerSteamId"
+    },
+    "LobbyPartnerDisconnected": {
+      "Mac": "\u10A3\u10A1\u10A5\u10A4\u10A8\u10A2\u10A1\u109B\u10A3\u10A5\u10A1",
+      "FixedDeop": "LobbyPartnerDisconnected"
+    },
+    "_PlayerName": {
       "Mac": "\u003C\u109F\u109F\u10A8\u10A1\u10A7\u10A2\u109C\u10A2\u10A5\u10A2\u10A3\u003Ek__BackingField",
-      "FixedDeop": "AAAAAPZW"
+      "FixedDeop": "_PlayerName"
     },
-    "AAAAAPZX": {
+    "_PlayerSteamId": {
       "Mac": "\u003C\u10A7\u10A5\u109E\u109D\u109C\u10A6\u10A5\u109B\u10A1\u109E\u10A5\u003Ek__BackingField",
-      "FixedDeop": "AAAAAPZX"
+      "FixedDeop": "_PlayerSteamId"
     },
-    "AAAAAPZY": {
+    "_PlayerSteamIdString": {
       "Mac": "\u109B\u10A2\u109A\u109B\u10A4\u109A\u109A\u109D\u10A7\u109A\u10A2",
-      "FixedDeop": "AAAAAPZY"
-    },
-    "AAAAAPZZ": {
-      "Mac": "\u109D\u109B\u10A5\u10A8\u109C\u10A1\u109F\u10A1\u10A7\u109C\u10A2",
-      "FixedDeop": "AAAAAPZZ"
-    },
-    "AAAAAPZa": {
-      "Mac": "\u003C\u10A2\u10A4\u10A6\u109E\u109B\u10A7\u109F\u109C\u109D\u10A6\u109B\u003Ek__BackingField",
-      "FixedDeop": "AAAAAPZa"
-    },
-    "AAAAAPZb": {
-      "Mac": "\u003C\u109E\u10A4\u10A6\u10A0\u109E\u1099\u10A8\u10A0\u10A5\u10A5\u109D\u003Ek__BackingField",
-      "FixedDeop": "AAAAAPZb"
-    },
-    "AAAAAPZc": {
-      "Mac": "\u109D\u10A4\u10A2\u10A4\u109E\u10A8\u109A\u109A\u1099\u10A3\u109B",
-      "FixedDeop": "AAAAAPZc"
-    },
-    "AAAAAPZd": {
-      "Mac": "\u109D\u10A4\u10A7\u109D\u10A3\u109D\u109D\u10A2\u10A4\u10A0\u10A7",
-      "FixedDeop": "AAAAAPZd"
+      "FixedDeop": "_PlayerSteamIdString"
     },
     "AAAAAPZe": {
-      "Mac": "\u10A8\u109F\u10A4\u1099\u10A2\u109F\u109A\u109B\u10A7\u109C\u109D",
+      "Mac": "\u109D\u109B\u10A5\u10A8\u109C\u10A1\u109F\u10A1\u10A7\u109C\u10A2",
       "FixedDeop": "AAAAAPZe"
     },
-    "AAAAAPZf": {
-      "Mac": "\u10A2\u109A\u10A5\u10A6\u109D\u10A4\u109C\u10A2\u10A8\u10A1\u1099",
-      "FixedDeop": "AAAAAPZf"
+    "_lobbyOwnerSteamId": {
+      "Mac": "\u003C\u10A2\u10A4\u10A6\u109E\u109B\u10A7\u109F\u109C\u109D\u10A6\u109B\u003Ek__BackingField",
+      "FixedDeop": "_lobbyOwnerSteamId"
     },
-    "AAAAAPZg": {
-      "Mac": "\u10A1\u10A0\u10A7\u10A7\u1099\u10A0\u10A3\u1099\u10A2\u109D\u109C",
-      "FixedDeop": "AAAAAPZg"
+    "_LobbyPartnerDisconnected": {
+      "Mac": "\u003C\u109E\u10A4\u10A6\u10A0\u109E\u1099\u10A8\u10A0\u10A5\u10A5\u109D\u003Ek__BackingField",
+      "FixedDeop": "_LobbyPartnerDisconnected"
     },
     "AAAAAPZh": {
-      "Mac": "\u10A8\u109E\u10A5\u109F\u10A4\u10A6\u1099\u10A7\u10A1\u10A4\u109F",
+      "Mac": "\u109D\u10A4\u10A2\u10A4\u109E\u10A8\u109A\u109A\u1099\u10A3\u109B",
       "FixedDeop": "AAAAAPZh"
     },
     "AAAAAPZi": {
-      "Mac": "\u109F\u10A3\u1099\u10A3\u10A7\u10A6\u10A0\u109C\u109E\u109C\u10A1",
+      "Mac": "\u109D\u10A4\u10A7\u109D\u10A3\u109D\u109D\u10A2\u10A4\u10A0\u10A7",
       "FixedDeop": "AAAAAPZi"
     },
     "AAAAAPZj": {
-      "Mac": "\u109B\u10A7\u10A8\u10A5\u109C\u109F\u109B\u109E\u10A7\u10A5\u109B",
+      "Mac": "\u10A8\u109F\u10A4\u1099\u10A2\u109F\u109A\u109B\u10A7\u109C\u109D",
       "FixedDeop": "AAAAAPZj"
     },
     "AAAAAPZk": {
-      "Mac": "\u10A3\u10A1\u10A5\u10A4\u10A8\u10A2\u10A1\u109B\u10A3\u10A5\u10A1",
+      "Mac": "\u10A2\u109A\u10A5\u10A6\u109D\u10A4\u109C\u10A2\u10A8\u10A1\u1099",
       "FixedDeop": "AAAAAPZk"
     }
   },

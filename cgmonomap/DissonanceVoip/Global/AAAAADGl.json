@@ -5,24 +5,24 @@
     "FixedDeop": "AAAAADGl"
   },
   "FieldMaps": {
-    "AAAAADGm": {
-      "Mac": "\u10A4\u109F\u10A1\u109D\u109E\u109A\u109B\u109A\u10A2\u10A3\u10A5",
-      "FixedDeop": "AAAAADGm"
-    },
-    "AAAAADGn": {
-      "Mac": "\u10A1\u10A3\u10A0\u109F\u10A2\u10A6\u10A4\u109D\u109A\u109C\u109F",
-      "FixedDeop": "AAAAADGn"
-    },
-    "AAAAADGo": {
+    "RoomName": {
       "Mac": "\u10A7\u10A4\u109D\u10A8\u10A5\u10A8\u109E\u10A3\u10A8\u109A\u10A3",
-      "FixedDeop": "AAAAADGo"
+      "FixedDeop": "RoomName"
+    },
+    "UseColliderTrigger": {
+      "Mac": "\u1099\u109E\u10A3\u109C\u1099\u1099\u109D\u10A3\u109C\u109B\u10A4",
+      "FixedDeop": "UseColliderTrigger"
+    },
+    "CanTrigger": {
+      "Mac": "\u109F\u10A3\u109E\u10A7\u109E\u109D\u109E\u10A2\u10A2\u10A0\u10A3",
+      "FixedDeop": "CanTrigger"
     },
     "AAAAADGp": {
-      "Mac": "\u1099\u109E\u10A3\u109C\u1099\u1099\u109D\u10A3\u109C\u109B\u10A4",
+      "Mac": "\u10A4\u109F\u10A1\u109D\u109E\u109A\u109B\u109A\u10A2\u10A3\u10A5",
       "FixedDeop": "AAAAADGp"
     },
     "AAAAADGq": {
-      "Mac": "\u109F\u10A3\u109E\u10A7\u109E\u109D\u109E\u10A2\u10A2\u10A0\u10A3",
+      "Mac": "\u10A1\u10A3\u10A0\u109F\u10A2\u10A6\u10A4\u109D\u109A\u109C\u109F",
       "FixedDeop": "AAAAADGq"
     }
   },

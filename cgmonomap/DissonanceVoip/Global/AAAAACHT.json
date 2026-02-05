@@ -5,52 +5,52 @@
     "FixedDeop": "AAAAACHT"
   },
   "FieldMaps": {
-    "AAAAACHU": {
-      "Mac": "\u10A6\u10A8\u10A7\u10A1\u10A2\u10A4\u10A4\u109E\u10A5\u10A7\u109B",
-      "FixedDeop": "AAAAACHU"
+    "UseColliderTrigger": {
+      "Mac": "\u1099\u109E\u10A3\u109C\u1099\u1099\u109D\u10A3\u109C\u109B\u10A4",
+      "FixedDeop": "UseColliderTrigger"
     },
-    "AAAAACHV": {
-      "Mac": "\u109B\u10A5\u10A0\u109F\u10A3\u10A6\u109D\u10A6\u10A1\u109B\u10A1",
-      "FixedDeop": "AAAAACHV"
+    "UseTrigger": {
+      "Mac": "\u10A0\u10A3\u109C\u109F\u10A6\u109C\u10A0\u10A3\u10A5\u109D\u10A4",
+      "FixedDeop": "UseTrigger"
     },
-    "AAAAACHW": {
-      "Mac": "\u10A0\u109B\u10A2\u10A6\u10A4\u109A\u10A6\u10A5\u10A6\u1099\u109A",
-      "FixedDeop": "AAAAACHW"
+    "CanTrigger": {
+      "Mac": "\u109F\u10A3\u109E\u10A7\u109E\u109D\u109E\u10A2\u10A2\u10A0\u10A3",
+      "FixedDeop": "CanTrigger"
     },
-    "AAAAACHX": {
-      "Mac": "\u10A6\u109D\u109A\u109B\u10A8\u1099\u10A7\u10A7\u10A6\u10A5\u10A4",
-      "FixedDeop": "AAAAACHX"
+    "IsColliderTriggered": {
+      "Mac": "\u109D\u10A0\u10A4\u10A5\u10A1\u10A4\u109B\u10A0\u109D\u109E\u109E",
+      "FixedDeop": "IsColliderTriggered"
     },
-    "AAAAACHY": {
-      "Mac": "\u109E\u10A7\u109D\u109E\u10A4\u10A3\u10A1\u10A1\u10A7\u109F\u10A0",
-      "FixedDeop": "AAAAACHY"
+    "Tokens": {
+      "Mac": "\u10A4\u10A0\u10A4\u10A1\u10A3\u10A1\u10A6\u10A5\u109D\u109F\u109A",
+      "FixedDeop": "Tokens"
     },
     "AAAAACHZ": {
-      "Mac": "\u1099\u109E\u10A3\u109C\u1099\u1099\u109D\u10A3\u109C\u109B\u10A4",
+      "Mac": "\u109A\u10A7\u10A4\u10A5\u109B\u109A\u109A\u10A7\u109B\u10A1\u10A0",
       "FixedDeop": "AAAAACHZ"
     },
     "AAAAACHa": {
-      "Mac": "\u10A0\u10A3\u109C\u109F\u10A6\u109C\u10A0\u10A3\u10A5\u109D\u10A4",
+      "Mac": "\u10A5\u10A5\u10A8\u10A3\u109C\u109D\u10A6\u10A0\u109C\u109A\u10A2",
       "FixedDeop": "AAAAACHa"
     },
     "AAAAACHb": {
-      "Mac": "\u109F\u10A3\u109E\u10A7\u109E\u109D\u109E\u10A2\u10A2\u10A0\u10A3",
+      "Mac": "\u10A6\u10A8\u10A7\u10A1\u10A2\u10A4\u10A4\u109E\u10A5\u10A7\u109B",
       "FixedDeop": "AAAAACHb"
     },
     "AAAAACHc": {
-      "Mac": "\u109D\u10A0\u10A4\u10A5\u10A1\u10A4\u109B\u10A0\u109D\u109E\u109E",
+      "Mac": "\u109B\u10A5\u10A0\u109F\u10A3\u10A6\u109D\u10A6\u10A1\u109B\u10A1",
       "FixedDeop": "AAAAACHc"
     },
-    "AAAAACHd": {
-      "Mac": "\u10A4\u10A0\u10A4\u10A1\u10A3\u10A1\u10A6\u10A5\u109D\u109F\u109A",
-      "FixedDeop": "AAAAACHd"
+    "_IsColliderTriggered": {
+      "Mac": "\u10A0\u109B\u10A2\u10A6\u10A4\u109A\u10A6\u10A5\u10A6\u1099\u109A",
+      "FixedDeop": "_IsColliderTriggered"
     },
     "AAAAACHe": {
-      "Mac": "\u109A\u10A7\u10A4\u10A5\u109B\u109A\u109A\u10A7\u109B\u10A1\u10A0",
+      "Mac": "\u10A6\u109D\u109A\u109B\u10A8\u1099\u10A7\u10A7\u10A6\u10A5\u10A4",
       "FixedDeop": "AAAAACHe"
     },
     "AAAAACHf": {
-      "Mac": "\u10A5\u10A5\u10A8\u10A3\u109C\u109D\u10A6\u10A0\u109C\u109A\u10A2",
+      "Mac": "\u109E\u10A7\u109D\u109E\u10A4\u10A3\u10A1\u10A1\u10A7\u109F\u10A0",
       "FixedDeop": "AAAAACHf"
     }
   },

@@ -6,23 +6,23 @@
   },
   "FieldMaps": {
     "AAAAAGPB": {
-      "Mac": "\u109B\u10A4\u109D\u10A7\u10A1\u10A6\u10A3\u10A8\u10A2\u109E\u10A8",
+      "Mac": "\u109C\u10A8\u10A8\u10A7\u109C\u109A\u109F\u109C\u10A6\u109C\u10A0",
       "FixedDeop": "AAAAAGPB"
     },
     "AAAAAGPC": {
-      "Mac": "\u10A3\u10A2\u10A1\u109C\u109F\u10A3\u109C\u10A0\u10A6\u109B\u10A8",
+      "Mac": "\u10A4\u109B\u10A8\u109D\u109E\u109C\u10A4\u10A7\u109D\u109D\u10A1",
       "FixedDeop": "AAAAAGPC"
     },
     "AAAAAGPD": {
-      "Mac": "\u109C\u10A8\u10A8\u10A7\u109C\u109A\u109F\u109C\u10A6\u109C\u10A0",
+      "Mac": "\u10A1\u10A3\u10A7\u10A4\u10A7\u1099\u109C\u109E\u10A3\u109D\u10A3",
       "FixedDeop": "AAAAAGPD"
     },
     "AAAAAGPE": {
-      "Mac": "\u10A4\u109B\u10A8\u109D\u109E\u109C\u10A4\u10A7\u109D\u109D\u10A1",
+      "Mac": "\u109B\u10A4\u109D\u10A7\u10A1\u10A6\u10A3\u10A8\u10A2\u109E\u10A8",
       "FixedDeop": "AAAAAGPE"
     },
     "AAAAAGPF": {
-      "Mac": "\u10A1\u10A3\u10A7\u10A4\u10A7\u1099\u109C\u109E\u10A3\u109D\u10A3",
+      "Mac": "\u10A3\u10A2\u10A1\u109C\u109F\u10A3\u109C\u10A0\u10A6\u109B\u10A8",
       "FixedDeop": "AAAAAGPF"
     }
   },

@@ -5,13 +5,13 @@
     "FixedDeop": "AAAAADyP"
   },
   "FieldMaps": {
-    "AAAAADyQ": {
+    "Status": {
       "Mac": "\u10A6\u109C\u10A5\u109D\u10A1\u109A\u10A0\u109F\u10A0\u109B\u109F",
-      "FixedDeop": "AAAAADyQ"
+      "FixedDeop": "Status"
     },
-    "AAAAADyR": {
+    "Mode": {
       "Mac": "\u109F\u1099\u109A\u109C\u10A4\u1099\u10A6\u10A5\u1099\u109B\u109B",
-      "FixedDeop": "AAAAADyR"
+      "FixedDeop": "Mode"
     }
   },
   "MethodMaps": {

@@ -5,40 +5,40 @@
     "FixedDeop": "Diss_SteamworksDemoPlayer"
   },
   "FieldMaps": {
-    "AAAAAQfW": {
-      "Mac": "\u109C\u10A2\u109E\u10A0\u10A6\u109D\u109F\u10A5\u10A7\u109D\u10A7",
-      "FixedDeop": "AAAAAQfW"
-    },
-    "AAAAAQfX": {
-      "Mac": "\u10A7\u109F\u10A1\u109C\u10A8\u10A2\u10A8\u10A3\u10A5\u109F\u10A0",
-      "FixedDeop": "AAAAAQfX"
-    },
-    "AAAAAQfY": {
-      "Mac": "\u109B\u109C\u109B\u10A3\u109A\u10A6\u10A7\u1099\u10A5\u10A0\u10A4",
-      "FixedDeop": "AAAAAQfY"
-    },
-    "AAAAAQfZ": {
-      "Mac": "\u109E\u10A7\u109D\u109E\u10A4\u10A3\u10A1\u10A1\u10A7\u109F\u10A0",
-      "FixedDeop": "AAAAAQfZ"
-    },
-    "AAAAAQfa": {
+    "PlayerId": {
       "Mac": "\u1099\u10A3\u10A7\u109E\u109E\u10A1\u10A5\u10A7\u10A8\u10A1\u10A6",
-      "FixedDeop": "AAAAAQfa"
+      "FixedDeop": "PlayerId"
     },
-    "AAAAAQfb": {
+    "Position": {
       "Mac": "\u10A5\u10A5\u10A7\u109D\u10A2\u10A5\u10A7\u10A7\u109F\u10A1\u109C",
-      "FixedDeop": "AAAAAQfb"
+      "FixedDeop": "Position"
     },
-    "AAAAAQfc": {
+    "Rotation": {
       "Mac": "\u10A4\u109D\u10A2\u109B\u1099\u109A\u10A5\u109C\u10A8\u109A\u10A3",
-      "FixedDeop": "AAAAAQfc"
+      "FixedDeop": "Rotation"
     },
-    "AAAAAQfd": {
+    "Type": {
       "Mac": "\u109A\u10A5\u109F\u10A5\u109B\u10A8\u10A6\u10A1\u109F\u109F\u10A1",
-      "FixedDeop": "AAAAAQfd"
+      "FixedDeop": "Type"
+    },
+    "IsTracking": {
+      "Mac": "\u10A7\u10A1\u109E\u10A5\u10A5\u109F\u109F\u10A6\u109B\u10A7\u10A0",
+      "FixedDeop": "IsTracking"
+    },
+    "_IsTracking": {
+      "Mac": "\u109C\u10A2\u109E\u10A0\u10A6\u109D\u109F\u10A5\u10A7\u109D\u10A7",
+      "FixedDeop": "_IsTracking"
+    },
+    "_Type": {
+      "Mac": "\u10A7\u109F\u10A1\u109C\u10A8\u10A2\u10A8\u10A3\u10A5\u109F\u10A0",
+      "FixedDeop": "_Type"
+    },
+    "_PlayerId": {
+      "Mac": "\u109B\u109C\u109B\u10A3\u109A\u10A6\u10A7\u1099\u10A5\u10A0\u10A4",
+      "FixedDeop": "_PlayerId"
     },
     "AAAAAQfe": {
-      "Mac": "\u10A7\u10A1\u109E\u10A5\u10A5\u109F\u109F\u10A6\u109B\u10A7\u10A0",
+      "Mac": "\u109E\u10A7\u109D\u109E\u10A4\u10A3\u10A1\u10A1\u10A7\u109F\u10A0",
       "FixedDeop": "AAAAAQfe"
     }
   },

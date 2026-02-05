@@ -6,39 +6,39 @@
   },
   "FieldMaps": {
     "AAAAACYI": {
-      "Mac": "\u10A1\u109B\u1099\u10A0\u10A6\u109D\u109C\u109B\u109B\u109D\u10A0",
+      "Mac": "\u109B\u109E\u109E\u10A2\u109B\u109C\u10A5\u10A5\u10A6\u109A\u10A2",
       "FixedDeop": "AAAAACYI"
     },
     "AAAAACYJ": {
-      "Mac": "\u10A3\u109F\u109A\u109D\u109F\u109E\u109B\u10A6\u10A2\u10A8\u10A8",
+      "Mac": "\u10A5\u109A\u10A4\u109D\u109E\u109A\u10A0\u10A8\u109A\u10A0\u109B",
       "FixedDeop": "AAAAACYJ"
     },
     "AAAAACYK": {
-      "Mac": "\u10A6\u10A1\u109D\u10A1\u109B\u10A6\u109E\u10A0\u109E\u10A3\u10A3",
+      "Mac": "\u10A7\u10A7\u1099\u10A1\u10A0\u109A\u10A8\u1099\u10A4\u10A5\u109D",
       "FixedDeop": "AAAAACYK"
     },
     "AAAAACYL": {
-      "Mac": "\u10A3\u10A8\u109F\u10A4\u1099\u1099\u109D\u10A8\u10A1\u10A3\u10A5",
+      "Mac": "\u109E\u10A6\u10A7\u10A4\u10A1\u10A7\u10A8\u10A3\u10A2\u10A7\u10A0",
       "FixedDeop": "AAAAACYL"
     },
     "AAAAACYM": {
-      "Mac": "\u109B\u109E\u109E\u10A2\u109B\u109C\u10A5\u10A5\u10A6\u109A\u10A2",
+      "Mac": "\u109A\u10A1\u10A3\u109E\u10A3\u10A1\u10A0\u10A3\u10A4\u109E\u10A7",
       "FixedDeop": "AAAAACYM"
     },
     "AAAAACYN": {
-      "Mac": "\u10A5\u109A\u10A4\u109D\u109E\u109A\u10A0\u10A8\u109A\u10A0\u109B",
+      "Mac": "\u10A1\u109B\u1099\u10A0\u10A6\u109D\u109C\u109B\u109B\u109D\u10A0",
       "FixedDeop": "AAAAACYN"
     },
     "AAAAACYO": {
-      "Mac": "\u10A7\u10A7\u1099\u10A1\u10A0\u109A\u10A8\u1099\u10A4\u10A5\u109D",
+      "Mac": "\u10A3\u109F\u109A\u109D\u109F\u109E\u109B\u10A6\u10A2\u10A8\u10A8",
       "FixedDeop": "AAAAACYO"
     },
     "AAAAACYP": {
-      "Mac": "\u109E\u10A6\u10A7\u10A4\u10A1\u10A7\u10A8\u10A3\u10A2\u10A7\u10A0",
+      "Mac": "\u10A6\u10A1\u109D\u10A1\u109B\u10A6\u109E\u10A0\u109E\u10A3\u10A3",
       "FixedDeop": "AAAAACYP"
     },
     "AAAAACYQ": {
-      "Mac": "\u109A\u10A1\u10A3\u109E\u10A3\u10A1\u10A0\u10A3\u10A4\u109E\u10A7",
+      "Mac": "\u10A3\u10A8\u109F\u10A4\u1099\u1099\u109D\u10A8\u10A1\u10A3\u10A5",
       "FixedDeop": "AAAAACYQ"
     }
   },

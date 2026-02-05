@@ -5,16 +5,16 @@
     "FixedDeop": "ServerClock"
   },
   "FieldMaps": {
-    "AAAAAOzU": {
-      "Mac": "\u003C\u10A7\u10A4\u109B\u1099\u10A0\u10A8\u10A6\u10A3\u10A7\u10A7\u109E\u003Ek__BackingField",
-      "FixedDeop": "AAAAAOzU"
+    "clock": {
+      "Mac": "\u10A3\u109D\u10A5\u1099\u10A0\u10A8\u109F\u10A6\u109C\u10A4\u1099",
+      "FixedDeop": "clock"
     },
-    "AAAAAOzV": {
-      "Mac": "\u10A2\u10A5\u10A4\u109B\u10A6\u10A2\u10A5\u109B\u10A3\u1099\u10A3",
-      "FixedDeop": "AAAAAOzV"
+    "_clock": {
+      "Mac": "\u003C\u10A7\u10A4\u109B\u1099\u10A0\u10A8\u10A6\u10A3\u10A7\u10A7\u109E\u003Ek__BackingField",
+      "FixedDeop": "_clock"
     },
     "AAAAAOzW": {
-      "Mac": "\u10A3\u109D\u10A5\u1099\u10A0\u10A8\u109F\u10A6\u109C\u10A4\u1099",
+      "Mac": "\u10A2\u10A5\u10A4\u109B\u10A6\u10A2\u10A5\u109B\u10A3\u1099\u10A3",
       "FixedDeop": "AAAAAOzW"
     }
   },

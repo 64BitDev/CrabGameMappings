@@ -5,16 +5,16 @@
     "FixedDeop": "MapSelection"
   },
   "FieldMaps": {
-    "AAAAAMxJ": {
-      "Mac": "\u003C\u10A2\u109B\u109F\u109C\u109C\u109D\u10A6\u10A6\u109E\u10A4\u1099\u003Ek__BackingField",
-      "FixedDeop": "AAAAAMxJ"
+    "selectedMap": {
+      "Mac": "\u10A4\u10A5\u109F\u10A1\u10A5\u1099\u10A4\u109E\u10A1\u10A0\u109B",
+      "FixedDeop": "selectedMap"
     },
-    "AAAAAMxK": {
-      "Mac": "\u1099\u10A5\u10A4\u1099\u10A7\u10A8\u10A3\u10A2\u10A1\u10A4\u109E",
-      "FixedDeop": "AAAAAMxK"
+    "_selectedMap": {
+      "Mac": "\u003C\u10A2\u109B\u109F\u109C\u109C\u109D\u10A6\u10A6\u109E\u10A4\u1099\u003Ek__BackingField",
+      "FixedDeop": "_selectedMap"
     },
     "AAAAAMxL": {
-      "Mac": "\u10A4\u10A5\u109F\u10A1\u10A5\u1099\u10A4\u109E\u10A1\u10A0\u109B",
+      "Mac": "\u1099\u10A5\u10A4\u1099\u10A7\u10A8\u10A3\u10A2\u10A1\u10A4\u109E",
       "FixedDeop": "AAAAAMxL"
     }
   },

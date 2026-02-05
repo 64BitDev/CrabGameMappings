@@ -5,25 +5,25 @@
     "FixedDeop": "AAAAAGue"
   },
   "FieldMaps": {
-    "AAAAAGuf": {
-      "Mac": "\u003C\u109E\u10A5\u10A6\u109A\u10A3\u1099\u10A2\u10A6\u109B\u109E\u10A6\u003Ek__BackingField",
-      "FixedDeop": "AAAAAGuf"
-    },
-    "AAAAAGug": {
+    "LastResult": {
       "Mac": "\u109A\u109A\u109B\u10A3\u109A\u10A0\u10A2\u10A4\u109B\u10A1\u10A7",
-      "FixedDeop": "AAAAAGug"
+      "FixedDeop": "LastResult"
     },
-    "AAAAAGuh": {
+    "IsBusy": {
       "Mac": "\u109C\u10A2\u10A3\u10A8\u10A1\u10A5\u10A8\u1099\u109E\u10A3\u1099",
-      "FixedDeop": "AAAAAGuh"
+      "FixedDeop": "IsBusy"
     },
-    "AAAAAGui": {
+    "IsSupported": {
       "Mac": "\u109E\u10A8\u10A2\u109F\u109F\u10A4\u109A\u109E\u10A4\u1099\u109E",
-      "FixedDeop": "AAAAAGui"
+      "FixedDeop": "IsSupported"
     },
-    "AAAAAGuj": {
+    "IsGenuineValueSetInInspector": {
       "Mac": "\u10A2\u10A1\u10A4\u10A4\u10A0\u10A3\u10A0\u109C\u10A7\u10A3\u10A8",
-      "FixedDeop": "AAAAAGuj"
+      "FixedDeop": "IsGenuineValueSetInInspector"
+    },
+    "_LastResult": {
+      "Mac": "\u003C\u109E\u10A5\u10A6\u109A\u10A3\u1099\u10A2\u10A6\u109B\u109E\u10A6\u003Ek__BackingField",
+      "FixedDeop": "_LastResult"
     }
   },
   "MethodMaps": {

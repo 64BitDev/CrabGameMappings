@@ -5,28 +5,28 @@
     "FixedDeop": "ShopItemPrefab"
   },
   "FieldMaps": {
-    "AAAAAPEo": {
+    "itemId": {
+      "Mac": "\u10A0\u1099\u109A\u1099\u10A4\u10A8\u10A6\u109B\u10A0\u10A1\u10A1",
+      "FixedDeop": "itemId"
+    },
+    "itemData": {
+      "Mac": "\u109E\u10A7\u10A5\u109D\u10A3\u10A5\u109B\u109C\u1099\u10A2\u10A2",
+      "FixedDeop": "itemData"
+    },
+    "_itemId": {
       "Mac": "\u003C\u10A5\u10A4\u10A0\u10A2\u10A3\u10A4\u109D\u109A\u10A1\u109E\u109F\u003Ek__BackingField",
-      "FixedDeop": "AAAAAPEo"
+      "FixedDeop": "_itemId"
     },
-    "AAAAAPEp": {
+    "_itemData": {
       "Mac": "\u003C\u109C\u10A6\u10A0\u10A4\u109F\u10A5\u10A0\u109F\u10A8\u10A2\u10A4\u003Ek__BackingField",
-      "FixedDeop": "AAAAAPEp"
-    },
-    "AAAAAPEq": {
-      "Mac": "\u10A1\u109C\u10A1\u10A2\u10A8\u10A7\u109F\u10A7\u109B\u10A0\u109B",
-      "FixedDeop": "AAAAAPEq"
-    },
-    "AAAAAPEr": {
-      "Mac": "\u10A2\u109A\u109B\u10A1\u109F\u109B\u10A2\u10A7\u109C\u10A8\u109F",
-      "FixedDeop": "AAAAAPEr"
+      "FixedDeop": "_itemData"
     },
     "AAAAAPEs": {
-      "Mac": "\u10A0\u1099\u109A\u1099\u10A4\u10A8\u10A6\u109B\u10A0\u10A1\u10A1",
+      "Mac": "\u10A1\u109C\u10A1\u10A2\u10A8\u10A7\u109F\u10A7\u109B\u10A0\u109B",
       "FixedDeop": "AAAAAPEs"
     },
     "AAAAAPEt": {
-      "Mac": "\u109E\u10A7\u10A5\u109D\u10A3\u10A5\u109B\u109C\u1099\u10A2\u10A2",
+      "Mac": "\u10A2\u109A\u109B\u10A1\u109F\u109B\u10A2\u10A7\u109C\u10A8\u109F",
       "FixedDeop": "AAAAAPEt"
     }
   },

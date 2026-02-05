@@ -5,20 +5,20 @@
     "FixedDeop": "ItemPrefab"
   },
   "FieldMaps": {
-    "AAAAAMeG": {
-      "Mac": "\u109B\u10A2\u10A2\u10A7\u10A6\u1099\u109F\u1099\u10A2\u10A6\u1099",
-      "FixedDeop": "AAAAAMeG"
+    "isPickedUp": {
+      "Mac": "\u10A3\u109F\u10A2\u109F\u10A2\u109C\u10A4\u10A5\u109B\u109C\u10A8",
+      "FixedDeop": "isPickedUp"
     },
     "AAAAAMeH": {
-      "Mac": "\u003C\u109D\u10A4\u109F\u109C\u10A2\u10A0\u10A6\u10A0\u10A7\u10A2\u10A4\u003Ek__BackingField",
+      "Mac": "\u109B\u10A2\u10A2\u10A7\u10A6\u1099\u109F\u1099\u10A2\u10A6\u1099",
       "FixedDeop": "AAAAAMeH"
     },
-    "AAAAAMeI": {
-      "Mac": "\u109A\u10A7\u10A3\u109F\u109C\u109D\u109D\u10A6\u1099\u10A2\u10A8",
-      "FixedDeop": "AAAAAMeI"
+    "_isPickedUp": {
+      "Mac": "\u003C\u109D\u10A4\u109F\u109C\u10A2\u10A0\u10A6\u10A0\u10A7\u10A2\u10A4\u003Ek__BackingField",
+      "FixedDeop": "_isPickedUp"
     },
     "AAAAAMeJ": {
-      "Mac": "\u10A3\u109F\u10A2\u109F\u10A2\u109C\u10A4\u10A5\u109B\u109C\u10A8",
+      "Mac": "\u109A\u10A7\u10A3\u109F\u109C\u109D\u109D\u10A6\u1099\u10A2\u10A8",
       "FixedDeop": "AAAAAMeJ"
     }
   },

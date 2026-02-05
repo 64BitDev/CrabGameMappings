@@ -6,15 +6,15 @@
   },
   "FieldMaps": {
     "AAAAAEmK": {
-      "Mac": "\u10A6\u109F\u109C\u109B\u10A3\u10A5\u10A3\u10A6\u10A6\u109D\u109B",
+      "Mac": "\u10A5\u10A4\u10A2\u1099\u109B\u109A\u10A5\u10A6\u109E\u10A2\u10A2",
       "FixedDeop": "AAAAAEmK"
     },
     "AAAAAEmL": {
-      "Mac": "\u10A0\u10A3\u10A8\u10A0\u10A8\u109B\u10A2\u10A8\u109E\u10A7\u109E",
+      "Mac": "\u10A6\u109F\u109C\u109B\u10A3\u10A5\u10A3\u10A6\u10A6\u109D\u109B",
       "FixedDeop": "AAAAAEmL"
     },
     "AAAAAEmM": {
-      "Mac": "\u10A5\u10A4\u10A2\u1099\u109B\u109A\u10A5\u10A6\u109E\u10A2\u10A2",
+      "Mac": "\u10A0\u10A3\u10A8\u10A0\u10A8\u109B\u10A2\u10A8\u109E\u10A7\u109E",
       "FixedDeop": "AAAAAEmM"
     }
   },

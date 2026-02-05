@@ -5,25 +5,25 @@
     "FixedDeop": "GameLoop"
   },
   "FieldMaps": {
-    "AAAAAMjj": {
-      "Mac": "\u109C\u109A\u10A3\u10A0\u109E\u109F\u10A0\u10A2\u109C\u109F\u10A3",
-      "FixedDeop": "AAAAAMjj"
+    "currentMapIndex": {
+      "Mac": "\u10A4\u10A7\u1099\u10A8\u10A0\u10A5\u10A3\u109E\u10A2\u109D\u109D",
+      "FixedDeop": "currentMapIndex"
     },
-    "AAAAAMjk": {
-      "Mac": "\u003C\u109F\u109D\u1099\u109D\u109B\u109E\u109F\u10A6\u10A1\u10A2\u109B\u003Ek__BackingField",
-      "FixedDeop": "AAAAAMjk"
+    "currentModeIndex": {
+      "Mac": "\u10A7\u10A3\u109F\u10A5\u109E\u10A4\u10A3\u109B\u10A0\u10A3\u10A1",
+      "FixedDeop": "currentModeIndex"
     },
     "AAAAAMjl": {
-      "Mac": "\u003C\u109F\u1099\u10A8\u10A8\u10A3\u109B\u10A5\u10A2\u109D\u1099\u10A3\u003Ek__BackingField",
+      "Mac": "\u109C\u109A\u10A3\u10A0\u109E\u109F\u10A0\u10A2\u109C\u109F\u10A3",
       "FixedDeop": "AAAAAMjl"
     },
-    "AAAAAMjm": {
-      "Mac": "\u10A4\u10A7\u1099\u10A8\u10A0\u10A5\u10A3\u109E\u10A2\u109D\u109D",
-      "FixedDeop": "AAAAAMjm"
+    "_currentMapIndex": {
+      "Mac": "\u003C\u109F\u109D\u1099\u109D\u109B\u109E\u109F\u10A6\u10A1\u10A2\u109B\u003Ek__BackingField",
+      "FixedDeop": "_currentMapIndex"
     },
-    "AAAAAMjn": {
-      "Mac": "\u10A7\u10A3\u109F\u10A5\u109E\u10A4\u10A3\u109B\u10A0\u10A3\u10A1",
-      "FixedDeop": "AAAAAMjn"
+    "_currentModeIndex": {
+      "Mac": "\u003C\u109F\u1099\u10A8\u10A8\u10A3\u109B\u10A5\u10A2\u109D\u1099\u10A3\u003Ek__BackingField",
+      "FixedDeop": "_currentModeIndex"
     }
   },
   "MethodMaps": {
